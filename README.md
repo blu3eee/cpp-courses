@@ -6,8 +6,8 @@ This Python script manages information about different courses and major require
 
 ## Features
 
-Reads major courses from a CSV file (2023-2024_Programs.csv) and populates CourseInfo objects.
-Exports the course information to a JSON file (courses_2023-2024.json).
+Reads major courses from a CSV file (`2023-2024_Programs.csv`) and populates CourseInfo objects.
+Exports the course information to a JSON file (`courses_2023-2024.json`).
 
 ## Files
 
