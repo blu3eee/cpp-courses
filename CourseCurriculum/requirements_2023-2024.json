@@ -1,0 +1,1685 @@
+{
+    "Aerospace Engineering, B.S.": {
+        "name": "Aerospace Engineering, B.S.",
+        "units": "127 units",
+        "Major Required": "89 units",
+        "Major Electives": "6 units"
+    },
+    "Anthropology, B.S. - Archaeology Subplan/Option": {
+        "name": "Anthropology, B.S. - Archaeology Subplan/Option",
+        "units": "120 units",
+        "Major Required": "33 units",
+        "Subplan/Option Required": "12 units",
+        "Unrestricted Electives": "27-39 units"
+    },
+    "Animal Science, B.S. - Pre-Veterinary Science/Graduate School Subplan/Option": {
+        "name": "Animal Science, B.S. - Pre-Veterinary Science/Graduate School Subplan/Option",
+        "units": "120 units",
+        "Major Required": "53 units",
+        "Subplan/Option Required": "31 units",
+        "Restricted Electives": "0-6 units"
+    },
+    "Agricultural Science, B.S.": {
+        "name": "Agricultural Science, B.S.",
+        "units": "120 units",
+        "Major Required": "86 units",
+        "Unrestricted Electives": "0-16 units"
+    },
+    "Anthropology, B.S. - Applied Anthropology Subplan/Option": {
+        "name": "Anthropology, B.S. - Applied Anthropology Subplan/Option",
+        "units": "120 units",
+        "Major Required": "33 units",
+        "Subplan/Option Required": "12 units",
+        "Unrestricted Electives": "27-42 units"
+    },
+    "Agribusiness and Food Industry Management, B.S.": {
+        "name": "Agribusiness and Food Industry Management, B.S.",
+        "units": "120 units",
+        "Major Required": "61 units",
+        "Major Electives": "20 units"
+    },
+    "Animal Science, B.S. - Animal Science Subplan/Option": {
+        "name": "Animal Science, B.S. - Animal Science Subplan/Option",
+        "units": "120 units",
+        "Major Required": "53 units",
+        "Subplan/Option Required": "21-22 units",
+        "Restricted Electives": "0-16 units"
+    },
+    "Anthropology, B.S. - General Anthropology Subplan/Option": {
+        "name": "Anthropology, B.S. - General Anthropology Subplan/Option",
+        "units": "120 units",
+        "Major Required": "33 units",
+        "Subplan/Option Required": "12 units",
+        "Unrestricted Electives": "27-42 units"
+    },
+    "Animal Health Science, B.S.": {
+        "name": "Animal Health Science, B.S.",
+        "units": "120 units",
+        "Major Required": "82 units",
+        "Major Electives": "3 units",
+        "Unrestricted Electives": "0-5 units"
+    },
+    "Apparel Merchandising and Management, B.S. - Apparel Production and Management Subplan/Option": {
+        "name": "Apparel Merchandising and Management, B.S. - Apparel Production and Management Subplan/Option",
+        "units": "120 units",
+        "Major Required": "63-64 units",
+        "Subplan/Option Required": "12 units",
+        "Subplan/Option Electives": "9 units"
+    },
+    "Apparel Merchandising and Management, B.S. - Fashion Retailing Subplan/Option": {
+        "name": "Apparel Merchandising and Management, B.S. - Fashion Retailing Subplan/Option",
+        "units": "120 units",
+        "Major Required": "63-64 units",
+        "Subplan/Option Required": "21 units"
+    },
+    "Apparel Merchandising and Management, B.S. - Textiles Subplan/Option": {
+        "name": "Apparel Merchandising and Management, B.S. - Textiles Subplan/Option",
+        "units": "120 units",
+        "Major Required": "63-64 units",
+        "Subplan/Option Required": "21 units"
+    },
+    "Art History, B.A.": {
+        "name": "Art History, B.A.",
+        "units": "120 units",
+        "Major Required": "36 units",
+        "Major Electives": "33 units",
+        "Unrestricted Electives": "3-15 units"
+    },
+    "Architecture, B.Arch.": {
+        "name": "Architecture, B.Arch.",
+        "units": "150 units",
+        "Major Required": "118 units",
+        "Major Electives": "9 units",
+        "Portfolio Review": "",
+        "Professional Practice Requirement": "500 hours"
+    },
+    "Biology, B.S.": {
+        "name": "Biology, B.S.",
+        "units": "120 units",
+        "Major Required": "59-61 units",
+        "Major Electives": "29-31 units"
+    },
+    "Biotechnology, B.S.": {
+        "name": "Biotechnology, B.S.",
+        "units": "120 units",
+        "Major Required": "73-74 units",
+        "Major Electives": "16-17 units",
+        "Unrestricted Electives": "0-6 units"
+    },
+    "German Studies for the Professions Certificate": {
+        "name": "German Studies for the Professions Certificate",
+        "units": "15 units",
+        "Certificate Required": "12 units",
+        "Certificate Electives": "3 units"
+    },
+    "Dietetic Internship Certificate": {
+        "name": "Dietetic Internship Certificate",
+        "units": "12 units",
+        "Certificate Required": "12 Units"
+    },
+    "Educational Leadership, Ed.D. - PreK-12 Educational Leadership Subplan/Option": {
+        "name": "Educational Leadership, Ed.D. - PreK-12 Educational Leadership Subplan/Option",
+        "units": "60 units",
+        "Major Required": "45 units",
+        "Subplan/Option Required": "15 units"
+    },
+    "Educational Leadership, Ed.D. - Community Colleges and Postsecondary Education Subplan/Option": {
+        "name": "Educational Leadership, Ed.D. - Community Colleges and Postsecondary Education Subplan/Option",
+        "units": "60 units",
+        "Major Required": "45 units",
+        "Subplan/Option Required": "15 units"
+    },
+    "Urban and Regional Planning, M.U.R.P.": {
+        "name": "Urban and Regional Planning, M.U.R.P.",
+        "units": "48 units",
+        "Major Required": "28 units",
+        "Major Electives": "17 units",
+        "Culminating Experience": "3 units"
+    },
+    "Systems Engineering, M.S.": {
+        "name": "Systems Engineering, M.S.",
+        "units": "30 units",
+        "Major Required": "21 units",
+        "Major Electives": "6 units",
+        "Culminating Experience": "3 units"
+    },
+    "Regenerative Studies, M.S.": {
+        "name": "Regenerative Studies, M.S.",
+        "units": "40 units",
+        "Major Required": "31 units",
+        "Major Electives": "6 units",
+        "Culminating Experience": "3 units"
+    },
+    "Psychology, M.S.": {
+        "name": "Psychology, M.S.",
+        "units": "60 units",
+        "Major Required": "59 units",
+        "Culminating Experience": "1 unit"
+    },
+    "Public Administration, M.P.A.": {
+        "name": "Public Administration, M.P.A.",
+        "units": "36-39 units",
+        "Major Required": "24 units",
+        "Major Electives": "9 units",
+        "Internship": "0-3 units",
+        "Culminating Experience": "3 units"
+    },
+    "Mathematics, M.S.": {
+        "name": "Mathematics, M.S.",
+        "units": "30 units",
+        "Major Required": "4 units",
+        "Major Electives": "22-24 units",
+        "Culminating Experience": "2-4 units"
+    },
+    "Mechanical Engineering, M.S.": {
+        "name": "Mechanical Engineering, M.S.",
+        "units": "30 units",
+        "Major Required": "15 units",
+        "Major Electives": "9-12 units",
+        "Culminating Experience": "3-6 units"
+    },
+    "Materials Engineering, M.S.": {
+        "name": "Materials Engineering, M.S.",
+        "units": "30 units",
+        "Major Required": "15 units",
+        "Major Electives": "9-12 units",
+        "Culminating Experience": "3-6 units"
+    },
+    "Kinesiology, M.S.": {
+        "name": "Kinesiology, M.S.",
+        "units": "30 units",
+        "Major Required": "14 units",
+        "Major Electives": "14 units",
+        "Culminating Experience": "2 units"
+    },
+    "Landscape Architecture, M.L.A.": {
+        "name": "Landscape Architecture, M.L.A.",
+        "units": "48-72 units",
+        "Major Required": "33 units",
+        "Major Electives": "9 units",
+        "Culminating Experience": "6 units",
+        "General Standing": "24 units",
+        "notes": "Study Abroad"
+    },
+    "International Apparel Management, M.S.": {
+        "name": "International Apparel Management, M.S.",
+        "units": "30 units",
+        "Major Required": "21 units",
+        "Major Electives": "6 units",
+        "Culminating Experience": "3 units"
+    },
+    "Interior Architecture, M.I.A.": {
+        "name": "Interior Architecture, M.I.A.",
+        "units": "42 units",
+        "Major Required": "32 units",
+        "Major Electives": "5 units",
+        "Culminating Experience": "5 units"
+    },
+    "Information Security, M.S.": {
+        "name": "Information Security, M.S.",
+        "units": "31 units",
+        "Major Required": "27 units",
+        "Major Electives": "3 units",
+        "Culminating Experience": "1 unit"
+    },
+    "Hospitality Management, M.S.": {
+        "name": "Hospitality Management, M.S.",
+        "units": "36 units",
+        "Major Required": "21 units",
+        "Major Electives": "9-12 units",
+        "Culminating Experience": "3-6 units"
+    },
+    "History, M.A.": {
+        "name": "History, M.A.",
+        "units": "31 units",
+        "Major Required": "13 units",
+        "Major Electives": "15-17 units",
+        "Culminating Experience": "1-3 units"
+    },
+    "Geology, M.S.": {
+        "name": "Geology, M.S.",
+        "units": "30 units",
+        "notes": "Curriculum",
+        "Major Required": "6 units",
+        "Major Electives": "19 units",
+        "Culminating Experience": "5 units"
+    },
+    "English, M.A. - Rhetoric and Composition Subplan/Option": {
+        "name": "English, M.A. - Rhetoric and Composition Subplan/Option",
+        "units": "30-31 units",
+        "Major Required": "15 units",
+        "Subplan/Option Required": "9 units",
+        "Subplan/Option Electives": "6 units",
+        "Culminating Experience": "1-3 units"
+    },
+    "English, M.A. - Teaching English to Speakers of Other Languages Subplan/Option": {
+        "name": "English, M.A. - Teaching English to Speakers of Other Languages Subplan/Option",
+        "units": "30-31 units",
+        "Major Required": "15 units",
+        "Subplan/Option Required": "15 units",
+        "Culminating Experience": "1-3 units"
+    },
+    "English, M.A. - Literary Studies Subplan/Option": {
+        "name": "English, M.A. - Literary Studies Subplan/Option",
+        "units": "30-31 units",
+        "Major Required": "15 units",
+        "Subplan/Option Required": "9 units",
+        "Subplan/Option Electives": "6 units",
+        "Culminating Experience": "1-3 units"
+    },
+    "Engineering Management, M.S.": {
+        "name": "Engineering Management, M.S.",
+        "units": "30 units",
+        "Major Required": "24 units",
+        "Major Electives": "3 units",
+        "Culminating Experience": "3 units"
+    },
+    "Electrical Engineering, M.S.": {
+        "name": "Electrical Engineering, M.S.",
+        "units": "30 units",
+        "Major Required": "6 units",
+        "Major Electives": "18-21 units",
+        "Culminating Experience": "3-6 units"
+    },
+    "Education, M.A. - Special Education Subplan/Option": {
+        "name": "Education, M.A. - Special Education Subplan/Option",
+        "units": "31 units",
+        "Major Required": "10 units",
+        "Subplan/Option Required": "6 units",
+        "Subplan/Option Electives": "12 units",
+        "Culminating Experience": "3 units"
+    },
+    "Education, M.A. - Educational Leadership Subplan/Option": {
+        "name": "Education, M.A. - Educational Leadership Subplan/Option",
+        "units": "31 units",
+        "Major Required": "10 units",
+        "Subplan/Option Required": "15 units",
+        "Culminating Experience": "6 units"
+    },
+    "Education, M.A. - Curriculum and Instruction Subplan/Option": {
+        "name": "Education, M.A. - Curriculum and Instruction Subplan/Option",
+        "units": "31 units",
+        "Major Required": "10 units",
+        "Subplan/Option Required": "9 units",
+        "Subplan/Option Electives": "6 units",
+        "Culminating Experience": "6 units"
+    },
+    "Economics, M.S.": {
+        "name": "Economics, M.S.",
+        "units": "36 units",
+        "Major Required": "12 units",
+        "Major Electives": "18-21 units",
+        "Culminating Experience": "3-6 units"
+    },
+    "Digital Supply Chain Management, M.S.": {
+        "name": "Digital Supply Chain Management, M.S.",
+        "units": "32 units",
+        "Major Required": "31 units",
+        "Culminating Experience": "1 unit"
+    },
+    "Digital Marketing, M.S.": {
+        "name": "Digital Marketing, M.S.",
+        "units": "34 units",
+        "Major Required": "32 units",
+        "Culminating Experience": "2 units"
+    },
+    "Dietetics, M.S.": {
+        "name": "Dietetics, M.S.",
+        "units": "38 units",
+        "Major Required": "30-31 units",
+        "Major Electives": "6 units",
+        "Culminating Experience": "1-2 units"
+    },
+    "Computer Science, M.S.": {
+        "name": "Computer Science, M.S.",
+        "units": "30 units",
+        "Major Required": "10 units",
+        "Major Electives": "15-18 units",
+        "Culminating Experience": "2 or 5 units"
+    },
+    "Civil Engineering, M.S. - Transportation Engineering Subplan/Option": {
+        "name": "Civil Engineering, M.S. - Transportation Engineering Subplan/Option",
+        "units": "30 units",
+        "Major Required": "3 units",
+        "Subplan/Option Required": "18 units",
+        "Subplan/Option Electives": "3-9 units",
+        "Culminating Experience": "0-6 units"
+    },
+    "Civil Engineering, M.S. - Structural Engineering Subplan/Option": {
+        "name": "Civil Engineering, M.S. - Structural Engineering Subplan/Option",
+        "units": "30 units",
+        "Major Required": "3 units",
+        "Subplan/Option Required": "18 units",
+        "Subplan/Option Electives": "3-9 units",
+        "Culminating Experience": "0-6 units"
+    },
+    "Civil Engineering, M.S. - Geotechnical Engineering Subplan/Option": {
+        "name": "Civil Engineering, M.S. - Geotechnical Engineering Subplan/Option",
+        "units": "30 units",
+        "Major Required": "3 units",
+        "Subplan/Option Required": "15 units",
+        "Subplan/Option Electives": "6-12 units",
+        "Culminating Experience": "0-6 units"
+    },
+    "Civil Engineering, M.S. - Environmental and Water Resources Engineering Subplan/Option": {
+        "name": "Civil Engineering, M.S. - Environmental and Water Resources Engineering Subplan/Option",
+        "units": "30 units",
+        "Major Required": "3 units",
+        "Subplan/Option Required": "18 units",
+        "Subplan/Option Electives": "3-9 units",
+        "Culminating Experience": "0-6 units"
+    },
+    "Civil Engineering, M.S. - Construction Engineering and Management Subplan/Option": {
+        "name": "Civil Engineering, M.S. - Construction Engineering and Management Subplan/Option",
+        "units": "30 units",
+        "Major Required": "3 units",
+        "Subplan/Option Required": "15 units",
+        "Subplan/Option Electives": "6-12 units",
+        "Culminating Experience": "0-6 units"
+    },
+    "Chemistry, M.S.": {
+        "name": "Chemistry, M.S.",
+        "units": "30 units",
+        "Major Required": "7 units",
+        "Major Electives": "17 units",
+        "Culminating Experience": "6 units"
+    },
+    "Business Analytics, M.S.": {
+        "name": "Business Analytics, M.S.",
+        "units": "34 units",
+        "Major Required": "32 units",
+        "Culminating Experience": "2 units"
+    },
+    "Business Administration, M.B.A.": {
+        "name": "Business Administration, M.B.A.",
+        "units": "34-36 units",
+        "Major Required": "24 units",
+        "Major Electives": "9 units",
+        "Culminating Experience": "1-3 units"
+    },
+    "Biological Science, M.S.": {
+        "name": "Biological Science, M.S.",
+        "units": "30 units",
+        "Major Required": "9 units",
+        "Major Electives": "19 units",
+        "Culminating Experience": "2 units"
+    },
+    "Architecture, M.Arch.": {
+        "name": "Architecture, M.Arch.",
+        "units": "60-90 units",
+        "Major Required": "45 units",
+        "Major Electives": "9 units",
+        "General Standing": "30 units",
+        "Culminating Experience": "6 units"
+    },
+    "Agriculture, M.S. - Plant Science Subplan/Option": {
+        "name": "Agriculture, M.S. - Plant Science Subplan/Option",
+        "units": "30 units",
+        "Major Required": "9 units",
+        "Subplan/Option Required": "10 units",
+        "Subplan/Option Electives": "10 units",
+        "Culminating Experience": "1 unit"
+    },
+    "Agriculture, M.S. - Nutrition and Food Science Subplan/Option": {
+        "name": "Agriculture, M.S. - Nutrition and Food Science Subplan/Option",
+        "units": "30 units",
+        "Major Required": "9 units",
+        "Subplan/Option Required": "5 units",
+        "Subplan/Option Electives": "14 units",
+        "Culminating Experience": "2 units"
+    },
+    "Agriculture, M.S. - Animal Science Subplan/Option": {
+        "name": "Agriculture, M.S. - Animal Science Subplan/Option",
+        "units": "30 units",
+        "Major Required": "9 units",
+        "Subplan/Option Required": "10 units",
+        "Subplan/Option Electives": "9 units",
+        "Culminating Experience": "2 units"
+    },
+    "Agriculture, M.S. - Agricultural Science Subplan/Option": {
+        "name": "Agriculture, M.S. - Agricultural Science Subplan/Option",
+        "units": "30 units",
+        "Major Required": "9 units",
+        "Subplan/Option Required": "13 units",
+        "Subplan/Option Electives": "7 units",
+        "Culminating Experience": "1 unit"
+    },
+    "Aerospace Engineering, M.S.": {
+        "name": "Aerospace Engineering, M.S.",
+        "units": "30 units",
+        "Major Required": "18 units",
+        "Major Electives": "9 units",
+        "Culminating Experience": "3 units"
+    },
+    "Accountancy, M.S.": {
+        "name": "Accountancy, M.S.",
+        "units": "31-49 units",
+        "Major Required": "18 units",
+        "Major Electives": "12 units",
+        "General Standing": "15-18 units",
+        "Culminating Experience": "1-3 units"
+    },
+    "Accountancy, M.S. (Accelerated)": {
+        "name": "Accountancy, M.S. (Accelerated)",
+        "units": "31 units",
+        "Major Required": "18 units",
+        "Major Electives": "12 units",
+        "Culminating Experience": "1-3 units*",
+        "notes": "Accounting Foundation Courses"
+    },
+    "Single Subject Credential": {
+        "name": "Single Subject Credential",
+        "units": "36 units",
+        "Credential Required": "36 units"
+    },
+    "Preliminary Education Specialist Credential, Mild to Moderate Support Needs": {
+        "name": "Preliminary Education Specialist Credential, Mild to Moderate Support Needs",
+        "units": "45 units",
+        "Credential Required": "45 Units"
+    },
+    "Preliminary Education Specialist Credential, Extensive Support Needs": {
+        "name": "Preliminary Education Specialist Credential, Extensive Support Needs",
+        "units": "45 units",
+        "Credential Required": "45 units"
+    },
+    "Multiple Subject Credential": {
+        "name": "Multiple Subject Credential",
+        "units": "42 units",
+        "Credential Required": "42 units"
+    },
+    "Intern Credential Program": {
+        "name": "Intern Credential Program",
+        "units": "36-45 units",
+        "Single Subject Credential Required": "36 units",
+        "Multiple Subject Credential Required": "42 units",
+        "Education Specialist Credential Required": "45 units"
+    },
+    "Bilingual Authorization": {
+        "name": "Bilingual Authorization",
+        "units": "6 units"
+    },
+    "Agriculture Specialist Credential": {
+        "name": "Agriculture Specialist Credential",
+        "units": "24 units"
+    },
+    "Administrative Services Credential": {
+        "name": "Administrative Services Credential",
+        "units": "24 units",
+        "Preliminary Credential Required": "24 units"
+    },
+    "Adapted Physical Education Added Authorization": {
+        "name": "Adapted Physical Education Added Authorization",
+        "units": "20 units",
+        "Authorization Required": "20 units"
+    },
+    "Zoology Minor": {
+        "name": "Zoology Minor",
+        "units": "30 units",
+        "Minor Required": "21 units",
+        "Minor Elective": "9 units"
+    },
+    "Writing Studies Minor": {
+        "name": "Writing Studies Minor",
+        "units": "18 units",
+        "Minor Required": "6 units",
+        "Minor Electives": "12 units"
+    },
+    "Water Resources and Irrigation Design Minor": {
+        "name": "Water Resources and Irrigation Design Minor",
+        "units": "18 units",
+        "Minor Required": "12 units",
+        "Minor Electives": "6 units"
+    },
+    "Urban and Regional Planning Minor": {
+        "name": "Urban and Regional Planning Minor",
+        "units": "19 units",
+        "Minor Required": "10 units",
+        "Minor Electives": "9 units"
+    },
+    "Urban and Community Agriculture Minor": {
+        "name": "Urban and Community Agriculture Minor",
+        "units": "18 units",
+        "Minor Required": "12 units",
+        "Minor Electives": "6 units"
+    },
+    "Theatre Minor": {
+        "name": "Theatre Minor",
+        "units": "24 units",
+        "Minor Required": "18 units",
+        "Minor Electives": "6 units"
+    },
+    "Teaching English to Speakers of Other Languages Minor": {
+        "name": "Teaching English to Speakers of Other Languages Minor",
+        "units": "18 units",
+        "Minor Required": "12 units",
+        "Minor Electives": "6 units"
+    },
+    "Supply Chain/Logistics Minor": {
+        "name": "Supply Chain/Logistics Minor",
+        "units": "21 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "6 units"
+    },
+    "Studio Arts Minor": {
+        "name": "Studio Arts Minor",
+        "units": "24 units",
+        "Minor Required": "9 units",
+        "Minor Electives": "15 units"
+    },
+    "Statistics Minor": {
+        "name": "Statistics Minor",
+        "units": "28 units",
+        "Minor Required": "22-23 units",
+        "Minor Electives": "5-6 units"
+    },
+    "Spanish Minor": {
+        "name": "Spanish Minor",
+        "units": "18 units",
+        "Minor Required": "3 units",
+        "Minor Electives": "15 units"
+    },
+    "Soil Science Minor": {
+        "name": "Soil Science Minor",
+        "units": "19 units",
+        "Minor Required": "13 units",
+        "Minor Electives": "6 units"
+    },
+    "Sociology Minor": {
+        "name": "Sociology Minor",
+        "units": "24 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "9 units"
+    },
+    "Social Work Minor": {
+        "name": "Social Work Minor",
+        "units": "28 units",
+        "Minor Required": "22 units",
+        "Minor Electives": "6 units"
+    },
+    "Science, Technology, and Society Minor": {
+        "name": "Science, Technology, and Society Minor",
+        "units": "30 units",
+        "Minor Required": "9 units",
+        "Minor Electives": "21 units"
+    },
+    "Science Education Minor": {
+        "name": "Science Education Minor",
+        "units": "30 units",
+        "Minor Required": "30 units"
+    },
+    "Regenerative Studies Minor": {
+        "name": "Regenerative Studies Minor",
+        "units": "18 units",
+        "Minor Required": "18 units"
+    },
+    "Real Estate Minor": {
+        "name": "Real Estate Minor",
+        "units": "36 units",
+        "Minor Required": "33 units",
+        "Minor Electives": "3 units"
+    },
+    "Public Relations Minor": {
+        "name": "Public Relations Minor",
+        "units": "21 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "6 units"
+    },
+    "Psychology Minor": {
+        "name": "Psychology Minor",
+        "units": "24 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "9 units"
+    },
+    "Political Science Minor": {
+        "name": "Political Science Minor",
+        "units": "18 units",
+        "Minor Required": "6 units",
+        "Minor Electives": "12 units"
+    },
+    "Plant Based Food and Nutrition Minor": {
+        "name": "Plant Based Food and Nutrition Minor",
+        "units": "20 units",
+        "Minor Required": "11 units",
+        "Minor Electives": "9 units"
+    },
+    "Physiology Minor": {
+        "name": "Physiology Minor",
+        "units": "36 units",
+        "Minor Required": "12 units",
+        "Minor Electives": "24 units"
+    },
+    "Physics Minor": {
+        "name": "Physics Minor",
+        "units": "39 units",
+        "Minor Required": "30 units",
+        "Minor Electives": "9 units"
+    },
+    "Philosophy Minor": {
+        "name": "Philosophy Minor",
+        "units": "21 units",
+        "Minor Required": "21 units"
+    },
+    "Pest and Disease Management Minor": {
+        "name": "Pest and Disease Management Minor",
+        "units": "18 units",
+        "Minor Required": "8 units",
+        "Minor Electives": "10 units"
+    },
+    "Operations Management Minor": {
+        "name": "Operations Management Minor",
+        "units": "18 units",
+        "Minor Required": "12 units",
+        "Minor Electives": "6 units"
+    },
+    "Nutrition Minor": {
+        "name": "Nutrition Minor",
+        "units": "32 units",
+        "Minor Required": "26 units",
+        "Minor Electives": "6 units"
+    },
+    "Nonviolence Studies Interdisciplinary Minor": {
+        "name": "Nonviolence Studies Interdisciplinary Minor",
+        "units": "18 units",
+        "Minor Required": "6 units",
+        "Minor Electives": "12 units"
+    },
+    "Native American Studies Minor": {
+        "name": "Native American Studies Minor",
+        "units": "24 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "9 units"
+    },
+    "Music Minor": {
+        "name": "Music Minor",
+        "units": "25 units",
+        "Minor Required": "6 units",
+        "Minor Electives": "19 units"
+    },
+    "Multimedia Journalism Minor": {
+        "name": "Multimedia Journalism Minor",
+        "units": "21 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "6 units"
+    },
+    "Multicultural Leadership Studies Interdisciplinary Minor": {
+        "name": "Multicultural Leadership Studies Interdisciplinary Minor",
+        "units": "21 units",
+        "Minor Required": "6 units",
+        "Minor Electives": "15 units"
+    },
+    "Microbiology Minor": {
+        "name": "Microbiology Minor",
+        "units": "33 units",
+        "Minor Required": "19 units",
+        "Minor Electives": "14 units"
+    },
+    "Mathematics Minor": {
+        "name": "Mathematics Minor",
+        "units": "28 units",
+        "Minor Required": "15-16 units",
+        "Minor Electives": "12-13 units"
+    },
+    "Materials Engineering Minor": {
+        "name": "Materials Engineering Minor",
+        "units": "20 units",
+        "Minor Required": "11 units",
+        "Minor Electives": "9 units"
+    },
+    "Marketing Management Minor": {
+        "name": "Marketing Management Minor",
+        "units": "21 units",
+        "Minor Required": "6 units",
+        "Minor Electives": "15 units"
+    },
+    "Management of Not-for-Profit Organization Minor": {
+        "name": "Management of Not-for-Profit Organization Minor",
+        "units": "18 units",
+        "Minor Required": "18 units"
+    },
+    "Management and Leadership Minor": {
+        "name": "Management and Leadership Minor",
+        "units": "18 units",
+        "Minor Required": "9 units",
+        "Minor Electives": "9 units"
+    },
+    "Landscape Architecture Minor": {
+        "name": "Landscape Architecture Minor",
+        "units": "24 units",
+        "Minor Required": "18 units",
+        "Minor Electives": "6 units"
+    },
+    "International Business Minor": {
+        "name": "International Business Minor",
+        "units": "18 units",
+        "Minor Required": "12 units",
+        "Minor Electives": "6 units"
+    },
+    "International Agricultural Business Management Minor": {
+        "name": "International Agricultural Business Management Minor",
+        "units": "18 units",
+        "Minor Required": "12 units",
+        "Minor Electives": "6 units"
+    },
+    "Human Resources Minor": {
+        "name": "Human Resources Minor",
+        "units": "21 units",
+        "Minor Required": "18 units",
+        "Minor Electives": "3 units"
+    },
+    "Hospitality Management Minor": {
+        "name": "Hospitality Management Minor",
+        "units": "24 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "9 units",
+        "notes": ""
+    },
+    "Horticulture Minor": {
+        "name": "Horticulture Minor",
+        "units": "19 units",
+        "Minor Required": "7 units",
+        "Minor Electives": "12 units"
+    },
+    "History Minor": {
+        "name": "History Minor",
+        "units": "24 units",
+        "Minor Required": "9 units",
+        "Minor Electives": "15 units"
+    },
+    "Geology Minor": {
+        "name": "Geology Minor",
+        "units": "20 units",
+        "Minor Required": "8 units",
+        "Minor Electives": "12 units"
+    },
+    "Geography Minor": {
+        "name": "Geography Minor",
+        "units": "22 units",
+        "Minor Required": "7 units",
+        "Minor Electives": "15 units"
+    },
+    "Geographic Information Systems Minor": {
+        "name": "Geographic Information Systems Minor",
+        "units": "18 units",
+        "Minor Required": "9 units",
+        "Minor Electives": "9 units"
+    },
+    "Gender and Sexuality Studies Minor": {
+        "name": "Gender and Sexuality Studies Minor",
+        "units": "24 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "9 units"
+    },
+    "French Minor": {
+        "name": "French Minor",
+        "units": "18 units",
+        "Minor Required": "18 units"
+    },
+    "Footwear Design and Merchandising Minor": {
+        "name": "Footwear Design and Merchandising Minor",
+        "units": "24 units",
+        "Minor Required": "18 units",
+        "Minor Electives": "6 units"
+    },
+    "Food Science and Technology Minor": {
+        "name": "Food Science and Technology Minor",
+        "units": "32 units",
+        "Minor Required": "32 units"
+    },
+    "Food Safety Minor": {
+        "name": "Food Safety Minor",
+        "units": "32 units",
+        "Minor Required": "24 units",
+        "Minor Electives": "8 units"
+    },
+    "Finance Minor": {
+        "name": "Finance Minor",
+        "units": "36 units",
+        "Minor Required": "36 units"
+    },
+    "Fashion Merchandising Minor": {
+        "name": "Fashion Merchandising Minor",
+        "units": "27 units",
+        "Minor Required": "18 units",
+        "Minor Electives": "9 units"
+    },
+    "Equine Studies Minor": {
+        "name": "Equine Studies Minor",
+        "units": "18 units",
+        "Minor Required": "7 units",
+        "Minor Electives": "11 units"
+    },
+    "Environmental Health Specialist Minor": {
+        "name": "Environmental Health Specialist Minor",
+        "units": "35 units",
+        "Minor Required": "25 units",
+        "Minor Electives": "10 units"
+    },
+    "Entrepreneurship Minor": {
+        "name": "Entrepreneurship Minor",
+        "units": "18 units",
+        "Minor Required": "12 units",
+        "Minor Electives": "6 units"
+    },
+    "English Minor": {
+        "name": "English Minor",
+        "units": "18 units",
+        "Minor Required": "3 units",
+        "Minor Electives": "15 units"
+    },
+    "Energy Engineering Minor": {
+        "name": "Energy Engineering Minor",
+        "units": "18 units",
+        "Minor Required": "9 units",
+        "Minor Electives": "9 units"
+    },
+    "Economics Minor": {
+        "name": "Economics Minor",
+        "units": "19 units",
+        "Minor Required": "13 units",
+        "Minor Electives": "6 units"
+    },
+    "Data Science Minor": {
+        "name": "Data Science Minor",
+        "units": "29 units",
+        "Minor Required": "20 units",
+        "Minor Electives": "9 units"
+    },
+    "Dance Minor": {
+        "name": "Dance Minor",
+        "units": "23 units",
+        "Minor Required": "3 units",
+        "Minor Electives": "20 units"
+    },
+    "Culinology\u00ae Minor": {
+        "name": "Culinology\u00ae Minor",
+        "units": "31 units",
+        "Minor Required": "28 units",
+        "Minor Electives": "3 units"
+    },
+    "Criminology Minor": {
+        "name": "Criminology Minor",
+        "units": "27 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "12 units"
+    },
+    "Contract Management Minor": {
+        "name": "Contract Management Minor",
+        "units": "36 units",
+        "Minor Required": "24 units",
+        "Minor Electives": "12 units"
+    },
+    "Computer Science Minor": {
+        "name": "Computer Science Minor",
+        "units": "29 units",
+        "Minor Required": "17 units",
+        "Minor Electives": "12 units"
+    },
+    "Computer Information Systems Minor": {
+        "name": "Computer Information Systems Minor",
+        "units": "21 units",
+        "Minor Required": "21 units"
+    },
+    "Communication Studies Minor": {
+        "name": "Communication Studies Minor",
+        "units": "21 units",
+        "Minor Required": "9 units",
+        "Minor Electives": "12 units"
+    },
+    "Chinese Minor": {
+        "name": "Chinese Minor",
+        "units": "18 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "3 units"
+    },
+    "Chicana/o and Latina/o Studies Minor": {
+        "name": "Chicana/o and Latina/o Studies Minor",
+        "units": "24 units",
+        "Minor Required": "15 units",
+        "Minor Elective": "9 units"
+    },
+    "Chemistry Minor": {
+        "name": "Chemistry Minor",
+        "units": "25 units",
+        "Minor Required": "19 units",
+        "Minor Electives": "6 units"
+    },
+    "Business Minor": {
+        "name": "Business Minor",
+        "units": "36 units",
+        "Minor Required": "33-36 units",
+        "Minor Electives": "0-3 units"
+    },
+    "Business Law Minor": {
+        "name": "Business Law Minor",
+        "units": "36 units",
+        "Minor Required": "24 units",
+        "Minor Electives": "12 units"
+    },
+    "Botany Minor": {
+        "name": "Botany Minor",
+        "units": "26 units",
+        "Minor Required": "8 units",
+        "Minor Electives": "18 units"
+    },
+    "Biophysics Minor": {
+        "name": "Biophysics Minor",
+        "units": "47 units",
+        "Minor Required": "38 units",
+        "Minor Electives": "9 units"
+    },
+    "Astronomy Minor": {
+        "name": "Astronomy Minor",
+        "units": "41 units",
+        "Minor Required": "41 units"
+    },
+    "Asian/Pacific Islander American Studies Minor": {
+        "name": "Asian/Pacific Islander American Studies Minor",
+        "units": "24 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "9 units"
+    },
+    "Art History Minor": {
+        "name": "Art History Minor",
+        "units": "18 units",
+        "Minor Required": "9 units",
+        "Minor Electives": "9 units"
+    },
+    "Anthropology Minor": {
+        "name": "Anthropology Minor",
+        "units": "24 units",
+        "Minor Required": "12 units",
+        "Minor Electives": "12 units"
+    },
+    "Animal and Veterinary Science Minor": {
+        "name": "Animal and Veterinary Science Minor",
+        "units": "33 units",
+        "Minor Required": "28 units",
+        "Minor Electives": "5 units"
+    },
+    "Agronomy Minor": {
+        "name": "Agronomy Minor",
+        "units": "19 units",
+        "Minor Required": "10 units",
+        "Minor Electives": "9 units"
+    },
+    "Agribusiness and Food Industry Management Minor": {
+        "name": "Agribusiness and Food Industry Management Minor",
+        "units": "18 units",
+        "Minor Required": "6 units",
+        "Minor Electives": "12 units"
+    },
+    "African American Studies Minor": {
+        "name": "African American Studies Minor",
+        "units": "24 units",
+        "Minor Required": "15 units",
+        "Minor Electives": "9 units"
+    },
+    "Accounting Minor": {
+        "name": "Accounting Minor",
+        "units": "33 units",
+        "Minor Required": "27 units",
+        "Minor Electives": "6 units"
+    },
+    "Visual Communication Design, B.F.A.": {
+        "name": "Visual Communication Design, B.F.A.",
+        "units": "120 units",
+        "Major Required": "52 units",
+        "Major Electives": "26 units",
+        "Unrestricted Electives": "0-3 units"
+    },
+    "Urban and Regional Planning, B.S. - Urban Design Subplan/Option": {
+        "name": "Urban and Regional Planning, B.S. - Urban Design Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "12 units",
+        "Subplan/Option Electives": "6 units",
+        "Restricted Electives": "3-12 units"
+    },
+    "Urban and Regional Planning, B.S. - Resiliency, Sustainability and the Environment Subplan/Option": {
+        "name": "Urban and Regional Planning, B.S. - Resiliency, Sustainability and the Environment Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "12 units",
+        "Subplan/Option Electives": "6 units",
+        "Restricted Electives": "3-12 units"
+    },
+    "Urban and Regional Planning, B.S. - Infrastructure and Transportation Subplan/Option": {
+        "name": "Urban and Regional Planning, B.S. - Infrastructure and Transportation Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "12 units",
+        "Subplan/Option Electives": "6 units",
+        "Restricted Electives": "3-12 units"
+    },
+    "Theatre, B.A. - Theatre in Education and Community Engagement Subplan/Option": {
+        "name": "Theatre, B.A. - Theatre in Education and Community Engagement Subplan/Option",
+        "units": "120 units",
+        "Major Required": "37 units",
+        "Subplan/Option Required": "31 units",
+        "Unrestricted Electives": "4-16 units"
+    },
+    "Urban and Regional Planning, B.S. - Community Development and Social Justice Subplan/Option": {
+        "name": "Urban and Regional Planning, B.S. - Community Development and Social Justice Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "12 units",
+        "Subplan/Option Electives": "6 units",
+        "Restricted Electives": "3-12 units"
+    },
+    "Theatre, B.A. - General Theatre Subplan/Option": {
+        "name": "Theatre, B.A. - General Theatre Subplan/Option",
+        "units": "120 units",
+        "Major Required": "37 units",
+        "Subplan/Option Required": "33 units",
+        "Unrestricted Electives": "2-14 units"
+    },
+    "Theatre, B.A. - Design and Technical Production Subplan/Option": {
+        "name": "Theatre, B.A. - Design and Technical Production Subplan/Option",
+        "units": "120 units",
+        "Major Required": "37 units",
+        "Subplan/Option Required": "34 units",
+        "Unrestricted Electives": "1-13 units"
+    },
+    "Theatre, B.A. - Dance Theatre Subplan/Option": {
+        "name": "Theatre, B.A. - Dance Theatre Subplan/Option",
+        "units": "120 units",
+        "Major Required": "37 units",
+        "Subplan/Option Required": "34 units",
+        "Unrestricted Electives": "1-13 units"
+    },
+    "Theatre, B.A. - Acting Subplan/Option": {
+        "name": "Theatre, B.A. - Acting Subplan/Option",
+        "units": "120 units",
+        "Major Required": "37 units",
+        "Subplan/Option Required": "36 units",
+        "Unrestricted Electives": "0-8 units"
+    },
+    "Spanish, B.A.": {
+        "name": "Spanish, B.A.",
+        "units": "120 units",
+        "Major Required": "28 units",
+        "Major Electives": "24 units",
+        "Unrestricted Electives": "20-29 units"
+    },
+    "Sociology, B.A. - Social Work Subplan/Option": {
+        "name": "Sociology, B.A. - Social Work Subplan/Option",
+        "units": "120 units",
+        "Major Required": "31 units",
+        "Subplan/Option Required": "22 units",
+        "Subplan/Option Electives": "3 units",
+        "Unrestricted Electives": "16-28 units"
+    },
+    "Science, Technology, and Society, B.A.": {
+        "name": "Science, Technology, and Society, B.A.",
+        "units": "120 units",
+        "Major Required": "27 units",
+        "Major Electives": "18 units",
+        "Other Requirements": "18-47 units",
+        "Unrestricted Electives": "0-33 units"
+    },
+    "Sociology, B.A. - General Sociology Subplan/Option": {
+        "name": "Sociology, B.A. - General Sociology Subplan/Option",
+        "units": "120 units",
+        "Major Required": "31 units",
+        "Subplan/Option Required": "3 units",
+        "Subplan/Option Electives": "15 units",
+        "Unrestricted Electives": "23-29 units"
+    },
+    "Psychology, B.A.": {
+        "name": "Psychology, B.A.",
+        "units": "120 units",
+        "Major Required": "27-28 units",
+        "Major Electives": "24-29 units",
+        "Unrestricted Electives": "15-33 units"
+    },
+    "Political Science, B.A.": {
+        "name": "Political Science, B.A.",
+        "units": "120 units",
+        "Major Required": "33 units",
+        "Major Electives": "24 units",
+        "Unrestricted Electives": "15-30 units"
+    },
+    "Plant Science, B.S.": {
+        "name": "Plant Science, B.S.",
+        "units": "120 units",
+        "Major Required": "69 units",
+        "Major Electives": "15 units",
+        "Unrestricted Electives": "0-6 units"
+    },
+    "Physics, B.S. - Integrated Science Subplan/Option": {
+        "name": "Physics, B.S. - Integrated Science Subplan/Option",
+        "units": "120 units",
+        "Major Required": "41 units",
+        "Subplan/Option Required": "26 units",
+        "Subplan/Option Electives": "19 units",
+        "Unrestricted Electives": "0-1 units"
+    },
+    "Physics, B.S. - General Subplan/Option": {
+        "name": "Physics, B.S. - General Subplan/Option",
+        "units": "120 units",
+        "Major Required": "41 units",
+        "Subplan/Option Required": "16 units",
+        "Subplan/Option Electives": "14-18 units",
+        "Unrestricted Electives": "0-7 units"
+    },
+    "Philosophy, B.A. - Law and Society Subplan/Option": {
+        "name": "Philosophy, B.A. - Law and Society Subplan/Option",
+        "units": "120 units",
+        "Major Required": "24 units",
+        "Subplan/Option Required": "12 units",
+        "Subplan/Option Electives": "9 units",
+        "Unrestricted Electives": "27-42 units"
+    },
+    "Physics, B.S. - Biophysics Subplan/Option": {
+        "name": "Physics, B.S. - Biophysics Subplan/Option",
+        "units": "120 units",
+        "Major Required": "41 units",
+        "Subplan/Option Required": "16 units",
+        "Subplan/Option Electives": "22 units",
+        "Unrestricted Electives": "0-2 units"
+    },
+    "Philosophy, B.A. - General Subplan/Option": {
+        "name": "Philosophy, B.A. - General Subplan/Option",
+        "units": "120 units",
+        "Major Required": "24 units",
+        "Subplan/Option Required": "6 units",
+        "Subplan/Option Electives": "12 units",
+        "Unrestricted Electives": "30-36 units"
+    },
+    "Nutrition, B.S. - Nutrition Science Subplan/Option": {
+        "name": "Nutrition, B.S. - Nutrition Science Subplan/Option",
+        "units": "120 units",
+        "Major Required": "74 units",
+        "Subplan/Option Required": "16 units",
+        "Subplan/Option Electives": "15 units",
+        "Unrestricted Electives": "0-3 units"
+    },
+    "Nutrition, B.S. - Dietetics Subplan/Option": {
+        "name": "Nutrition, B.S. - Dietetics Subplan/Option",
+        "units": "120 units",
+        "Major Required": "74 units",
+        "Subplan/Option Required": "31 units"
+    },
+    "Nutrition, B.S. - Nutrition and Health Subplan/Option": {
+        "name": "Nutrition, B.S. - Nutrition and Health Subplan/Option",
+        "units": "120 units",
+        "Major Required": "74 units",
+        "Subplan/Option Required": "16 units",
+        "Subplan/Option Electives": "15 units",
+        "Unrestricted Electives": "0-3 units"
+    },
+    "Music, B.M. - Performance Subplan/Option": {
+        "name": "Music, B.M. - Performance Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "24 units",
+        "Subplan/Option Electives": "6-12 units",
+        "Unrestricted Electives": "0-3 units",
+        "notes": "Ensembles"
+    },
+    "Music, B.M. - Pedagogy (Pre-credential) Subplan/Option": {
+        "name": "Music, B.M. - Pedagogy (Pre-credential) Subplan/Option",
+        "units": "131 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "33 units",
+        "Subplan/Option Electives": "11 units",
+        "notes": "Ensembles"
+    },
+    "Music, B.M. - Composition Subplan/Option": {
+        "name": "Music, B.M. - Composition Subplan/Option",
+        "units": "124 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "24 units",
+        "Subplan/Option Electives": "13 units",
+        "notes": "Ensembles"
+    },
+    "Music, B.A. - Music Industry Studies Subplan/Option": {
+        "name": "Music, B.A. - Music Industry Studies Subplan/Option",
+        "units": "120 units",
+        "Major Required": "47 units",
+        "Subplan/Option Required": "13 units",
+        "Subplan/Option Electives": "21 units",
+        "Unrestricted Electives": "0-6 units"
+    },
+    "Mechanical Engineering, B.S.": {
+        "name": "Mechanical Engineering, B.S.",
+        "units": "127 units",
+        "Major Required": "92 units",
+        "Major Electives": "6 units"
+    },
+    "Music, B.A. - General Subplan/Option": {
+        "name": "Music, B.A. - General Subplan/Option",
+        "units": "120 units",
+        "Major Required": "47 units",
+        "Subplan/Option Required": "19 units",
+        "Subplan/Option Electives": "12 units",
+        "Unrestricted Electives": "0-12 units"
+    },
+    "Mathematics, B.S. - Secondary Teacher Prep/Pure Mathematics Subplan/Option": {
+        "name": "Mathematics, B.S. - Secondary Teacher Prep/Pure Mathematics Subplan/Option",
+        "units": "120 units",
+        "Major Required": "54-58 units",
+        "Subplan/Option Required": "16 units",
+        "Unrestricted Electives": "0-8 units"
+    },
+    "Mathematics, B.S. - Applied Mathematics/Statistics Subplan/Option": {
+        "name": "Mathematics, B.S. - Applied Mathematics/Statistics Subplan/Option",
+        "units": "120 units",
+        "Major Required": "54-58 units",
+        "Subplan/Option Required": "16 units",
+        "Unrestricted Electives": "0-8 units"
+    },
+    "Manufacturing Engineering, B.S.": {
+        "name": "Manufacturing Engineering, B.S.",
+        "units": "128 units",
+        "Major Required": "95 units",
+        "Major Electives": "7 units"
+    },
+    "Liberal Studies, B.A. - Pre-Credential Subplan/Option": {
+        "name": "Liberal Studies, B.A. - Pre-Credential Subplan/Option",
+        "units": "120 units",
+        "Major Required": "42 units",
+        "Subplan/Option Required": "35 units",
+        "Subplan/Option Electives": "6 units",
+        "Unrestricted Electives": "0-16 units"
+    },
+    "Liberal Studies, B.A. - Integrated Teacher Education Program Education Specialist": {
+        "name": "Liberal Studies, B.A. - Integrated Teacher Education Program Education Specialist",
+        "units": "128 units",
+        "Major Required": "42 units",
+        "Subplan/Option Required": "26 units",
+        "ITEP Education Specialist - Extensive Support Needs Required": "36 units"
+    },
+    "Liberal Studies, B.A. - General Studies Subplan/Option": {
+        "name": "Liberal Studies, B.A. - General Studies Subplan/Option",
+        "units": "120 units",
+        "Major Required": "42 units",
+        "Subplan/Option Required": "15 units",
+        "Subplan/Option Electives": "18 units",
+        "Unrestricted Electives": "0-27 units"
+    },
+    "Kinesiology, B.S. - Physical Education Teacher Education Subplan/Option": {
+        "name": "Kinesiology, B.S. - Physical Education Teacher Education Subplan/Option",
+        "units": "120 units",
+        "Major Required": "48 units",
+        "Subplan/Option Required": "33 units",
+        "Subplan/Option Electives": "0-7 units"
+    },
+    "Landscape Architecture, B.S.": {
+        "name": "Landscape Architecture, B.S.",
+        "units": "120 units",
+        "Major Required": "57 units",
+        "Major Electives": "15 units",
+        "notes": "International Study Abroad Course Options",
+        "Unrestricted Electives": "0-12 units"
+    },
+    "Kinesiology, B.S. - General Subplan/Option": {
+        "name": "Kinesiology, B.S. - General Subplan/Option",
+        "units": "120 units",
+        "Major Required": "48 units",
+        "Subplan/Option Required": "11 units",
+        "Subplan/Option Electives": "23 units",
+        "Unrestricted Electives": "0-11 units"
+    },
+    "Industrial Engineering, B.S.": {
+        "name": "Industrial Engineering, B.S.",
+        "units": "127 units",
+        "Major Required": "94 units",
+        "Major Electives": "7 units"
+    },
+    "Hospitality Management, B.S.": {
+        "name": "Hospitality Management, B.S.",
+        "units": "120 units",
+        "Major Required": "60 units",
+        "Major Electives": "9 units",
+        "Unrestricted Electives": "3-6 units"
+    },
+    "History, B.A.": {
+        "name": "History, B.A.",
+        "units": "120 units",
+        "Major Required": "45 units",
+        "Unrestricted Electives": "27-42 units",
+        "Other Requirements": ""
+    },
+    "History, B.A. - Pre-Credential Subplan/Option": {
+        "name": "History, B.A. - Pre-Credential Subplan/Option",
+        "units": "120 units",
+        "Major Required": "45 units",
+        "Subplan/Option Required": "39 units",
+        "Unrestricted Electives": "0-15 units"
+    },
+    "Geology, B.S.": {
+        "name": "Geology, B.S.",
+        "units": "120 units",
+        "Major Required": "62 units",
+        "Major Electives": "22 units",
+        "Unrestricted Electives": "0-3 units"
+    },
+    "Geography, B.S. - Geospatial Analysis Subplan/Option": {
+        "name": "Geography, B.S. - Geospatial Analysis Subplan/Option",
+        "units": "120 units",
+        "Major Required": "19 units",
+        "Subplan/Option Required": "15 units",
+        "Subplan/Option Electives": "3 units",
+        "Unrestricted Electives": "35-38 units"
+    },
+    "Geography, B.S. - Geographic Studies Subplan/Option": {
+        "name": "Geography, B.S. - Geographic Studies Subplan/Option",
+        "units": "120 units",
+        "Major Required": "19 units",
+        "Subplan/Option Required": "15 units",
+        "Subplan/Option Electives": "3 units",
+        "Unrestricted Electives": "35-41 units"
+    },
+    "Geography, B.S. - Environmental Studies Subplan/Option": {
+        "name": "Geography, B.S. - Environmental Studies Subplan/Option",
+        "units": "120 units",
+        "Major Required": "19 units",
+        "Subplan/Option Required": "15 units",
+        "Subplan/Option Electives": "3 units",
+        "Unrestricted Electives": "35-38 units"
+    },
+    "Gender, Ethnicity, and Multicultural Studies, B.A. - Pre-Credential Subplan/Option": {
+        "name": "Gender, Ethnicity, and Multicultural Studies, B.A. - Pre-Credential Subplan/Option",
+        "units": "120 units",
+        "Major Required": "27 units",
+        "Subplan/Option Required": "25 units",
+        "Unrestricted Electives": "20-32 units"
+    },
+    "Gender, Ethnicity, and Multicultural Studies, B.A. - GEMS Subplan/Option": {
+        "name": "Gender, Ethnicity, and Multicultural Studies, B.A. - GEMS Subplan/Option",
+        "units": "120 units",
+        "Major Required": "27 units",
+        "Subplan/Option Required": "21 units",
+        "Unrestricted Electives": "24-36 units"
+    },
+    "Food Science and Technology, B.S. - Science and Technology Subplan/Option": {
+        "name": "Food Science and Technology, B.S. - Science and Technology Subplan/Option",
+        "units": "120 units",
+        "Major Required": "86 units",
+        "Subplan/Option Required": "11 units",
+        "Subplan/Option Electives": "2 units"
+    },
+    "Food Science and Technology, B.S. - General Subplan/Option": {
+        "name": "Food Science and Technology, B.S. - General Subplan/Option",
+        "units": "120 units",
+        "Major Required": "86 units",
+        "Subplan/Option Electives": "13 units",
+        "Unrestricted Electives": "0-3 units"
+    },
+    "Environmental Biology, B.S.": {
+        "name": "Environmental Biology, B.S.",
+        "units": "120 units",
+        "Major Required": "58-59 units",
+        "Major Electives": "32-34 units",
+        "Restricted Electives": "0-6 units"
+    },
+    "Food Science and Technology, B.S. - Culinology\u00ae Subplan/Option": {
+        "name": "Food Science and Technology, B.S. - Culinology\u00ae Subplan/Option",
+        "units": "120 units",
+        "Major Required": "86 units",
+        "Subplan/Option Required": "12 units",
+        "Subplan/Option Electives": "1 unit",
+        "Unrestricted Electives": "0-3 units"
+    },
+    "English, B.A. - Literary Studies Subplan/Option": {
+        "name": "English, B.A. - Literary Studies Subplan/Option",
+        "units": "120 units",
+        "Major Required": "34 units",
+        "Subplan/Option Required": "3 units",
+        "Subplan/Option Electives": "24 units",
+        "Unrestricted Electives": "11-26 units"
+    },
+    "English, B.A. - English Education Subplan/Option": {
+        "name": "English, B.A. - English Education Subplan/Option",
+        "units": "120 units",
+        "Major Required": "34 units",
+        "Subplan/Option Required": "18 units",
+        "Subplan/Option Electives": "15 units",
+        "Unrestricted Electives": "5-17 units",
+        "notes": "Single Subject Credential Directed Coursework"
+    },
+    "English, B.A. - Applied Language Studies Option": {
+        "name": "English, B.A. - Applied Language Studies Option",
+        "units": "120 units",
+        "Major Required": "34 units",
+        "Subplan/Option Required": "18 units",
+        "Subplan/Option Electives": "9 units",
+        "Unrestricted Electives": "11-23 units"
+    },
+    "Electronic Systems Engineering Technology, B.S.": {
+        "name": "Electronic Systems Engineering Technology, B.S.",
+        "units": "124 units",
+        "Major Required": "79 units",
+        "Major Electives": "16 units"
+    },
+    "Electromechanical Systems Engineering Technology, B.S.": {
+        "name": "Electromechanical Systems Engineering Technology, B.S.",
+        "units": "124 units",
+        "Major Required": "86 units",
+        "Major Electives": "9 units"
+    },
+    "Economics, B.S. - Quantitative Economics Subplan/Option": {
+        "name": "Economics, B.S. - Quantitative Economics Subplan/Option",
+        "units": "120 units",
+        "Major Required": "33 units",
+        "Subplan/Option Required": "14 units",
+        "Subplan/Option Electives": "18 units",
+        "Unrestricted Electives": "7-10 units"
+    },
+    "Electrical Engineering, B.S.": {
+        "name": "Electrical Engineering, B.S.",
+        "units": "125 units",
+        "Major Required": "81 units",
+        "Major Electives": "11 units"
+    },
+    "Economics, B.S. - General Economics Subplan/Option": {
+        "name": "Economics, B.S. - General Economics Subplan/Option",
+        "units": "120 units",
+        "Major Required": "33 units",
+        "Subplan/Option Required": "3-4 units",
+        "Subplan/Option Electives": "27 units",
+        "Unrestricted Electives": "8-12 units"
+    },
+    "Economics, B.S. - Applied Economics Subplan/Option": {
+        "name": "Economics, B.S. - Applied Economics Subplan/Option",
+        "units": "120 units",
+        "Major Required": "33 units",
+        "Subplan/Option Required": "15-16 units",
+        "Subplan/Option Electives": "15 units",
+        "Unrestricted Electives": "8-12 units"
+    },
+    "Early Childhood Studies, B.A. - PK-Grade 3 Subplan/Option": {
+        "name": "Early Childhood Studies, B.A. - PK-Grade 3 Subplan/Option",
+        "units": "120 units",
+        "Major Required": "39 units",
+        "Subplan/Option Required": "36 units",
+        "Unrestricted Electives": "0-18 units"
+    },
+    "Early Childhood Studies, B.A. - Non-Teaching Subplan/Option": {
+        "name": "Early Childhood Studies, B.A. - Non-Teaching Subplan/Option",
+        "units": "120 units",
+        "Major Required": "39 units",
+        "Subplan/Option Required": "12 units",
+        "Subplan/Option Electives": "21 units",
+        "Unrestricted Electives": "0-6 units"
+    },
+    "Early Childhood Studies, B.A. - Multilingual Teaching Subplan/Option": {
+        "name": "Early Childhood Studies, B.A. - Multilingual Teaching Subplan/Option",
+        "units": "120 units",
+        "Major Required": "39 units",
+        "Subplan/Option Required": "21 units",
+        "Subplan/Option Electives": "12 units",
+        "Unrestricted Electives": "0-12 units"
+    },
+    "Early Childhood Studies, B.A. - Integrated Teacher Education Program Education Specialist": {
+        "name": "Early Childhood Studies, B.A. - Integrated Teacher Education Program Education Specialist",
+        "units": "129 units",
+        "Major Required": "39 units",
+        "Subplan/Option Required": "12 units",
+        "ITEP Education Specialist - Extensive Support Needs Required": "36 units"
+    },
+    "Early Childhood Studies, B.A. - Early Childhood Teaching Subplan/Option": {
+        "name": "Early Childhood Studies, B.A. - Early Childhood Teaching Subplan/Option",
+        "units": "120 units",
+        "Major Required": "39 units",
+        "Subplan/Option Required": "27 units",
+        "Subplan/Option Electives": "6 units",
+        "Unrestricted Electives": "0-6 units"
+    },
+    "Criminology, B.A.": {
+        "name": "Criminology, B.A.",
+        "units": "120 units",
+        "Major Required": "29 units",
+        "Major Electives": "27 units",
+        "Unrestricted Electives": "16-25 units"
+    },
+    "Construction Engineering and Management, B.S.": {
+        "name": "Construction Engineering and Management, B.S.",
+        "units": "124 units",
+        "Major Required": "92 units",
+        "Major Electives": "3 units"
+    },
+    "Computer Science, B.S.": {
+        "name": "Computer Science, B.S.",
+        "units": "120 units",
+        "Major Required": "67 units",
+        "Major Electives": "17 units"
+    },
+    "Computer Engineering, B.S.": {
+        "name": "Computer Engineering, B.S.",
+        "units": "124 units",
+        "Major Required": "80 units",
+        "Major Electives": "11 units"
+    },
+    "Communication, B.S. - Public Relations Subplan/Option": {
+        "name": "Communication, B.S. - Public Relations Subplan/Option",
+        "units": "120 units",
+        "Major Required": "30 units",
+        "Subplan/Option Required": "21 units",
+        "Subplan/Option Electives": "6 units",
+        "Unrestricted Electives": "15-24 units"
+    },
+    "Communication, B.S. - Multimedia Journalism Subplan/Option": {
+        "name": "Communication, B.S. - Multimedia Journalism Subplan/Option",
+        "units": "120 units",
+        "Major Required": "30 units",
+        "Subplan/Option Required": "15 units",
+        "Subplan/Option Electives": "12 units",
+        "Unrestricted Electives": "15-24 units"
+    },
+    "Communication, B.S. - Communication Studies Subplan/Option": {
+        "name": "Communication, B.S. - Communication Studies Subplan/Option",
+        "units": "120 units",
+        "Major Required": "30 units",
+        "Subplan/Option Required": "18 units",
+        "Subplan/Option Electives": "9 units",
+        "Unrestricted Electives": "15-24 units"
+    },
+    "Civil Engineering, B.S. - General Civil Engineering Subplan/Option": {
+        "name": "Civil Engineering, B.S. - General Civil Engineering Subplan/Option",
+        "units": "126 units",
+        "Major Required": "59 units",
+        "Subplan/Option Required": "29 units",
+        "Subplan/Option Electives": "9 units"
+    },
+    "Civil Engineering, B.S. - Environmental Engineering Subplan/Option": {
+        "name": "Civil Engineering, B.S. - Environmental Engineering Subplan/Option",
+        "units": "126 units",
+        "Major Required": "59 units",
+        "Subplan/Option Required": "23 units",
+        "Subplan/Option Electives": "15 units"
+    },
+    "Chemistry, B.S. - General Chemistry Subplan/Option": {
+        "name": "Chemistry, B.S. - General Chemistry Subplan/Option",
+        "units": "120 units",
+        "Major Required": "48 units",
+        "Subplan/Option Required": "10 units",
+        "Subplan/Option Electives": "23 units"
+    },
+    "Chemistry, B.S. - Biochemistry Subplan/Option": {
+        "name": "Chemistry, B.S. - Biochemistry Subplan/Option",
+        "units": "120 units",
+        "Major Required": "48 units",
+        "Subplan/Option Required": "24-25 units",
+        "Subplan/Option Electives": "8-9 units"
+    },
+    "Chemistry, B.S. - American Chemical Society Subplan/Option": {
+        "name": "Chemistry, B.S. - American Chemical Society Subplan/Option",
+        "units": "120 units",
+        "Major Required": "48 units",
+        "Subplan/Option Required": "24 units",
+        "Subplan/Option Electives": "7-9 units",
+        "Unrestricted Electives": "0-2 units"
+    },
+    "Chemical Engineering, B.S.": {
+        "name": "Chemical Engineering, B.S.",
+        "units": "127 units",
+        "Major Required": "89 units",
+        "Major Electives": "3 units"
+    },
+    "Business Administration, B.S. - Technology and Operations Management Subplan/Option": {
+        "name": "Business Administration, B.S. - Technology and Operations Management Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "6 units",
+        "Subplan/Option Electives": "21 units",
+        "notes": "Personal Computer Proficiency Requirement"
+    },
+    "Business Administration, B.S. - Marketing Management Subplan/Option": {
+        "name": "Business Administration, B.S. - Marketing Management Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "17 units",
+        "Subplan/Option Electives": "13 units",
+        "notes": "Personal Computer Proficiency Requirement"
+    },
+    "Business Administration, B.S. - Management and Human Resources Subplan/Option": {
+        "name": "Business Administration, B.S. - Management and Human Resources Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "9 units",
+        "Subplan/Option Electives": "18 units",
+        "notes": "Personal Computer Proficiency Requirement"
+    },
+    "Business Administration, B.S. - International Business Subplan/Option": {
+        "name": "Business Administration, B.S. - International Business Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "17 units",
+        "Subplan/Option Electives": "10 units",
+        "notes": "Personal Computer Proficiency Requirement"
+    },
+    "Business Administration, B.S. - Finance, Real Estate, and Law Subplan/Option": {
+        "name": "Business Administration, B.S. - Finance, Real Estate, and Law Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "15 units",
+        "Subplan/Option Electives": "12 units",
+        "notes": "Personal Computer Proficiency Requirement"
+    },
+    "Business Administration, B.S. - E-Business Subplan/Option": {
+        "name": "Business Administration, B.S. - E-Business Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "9 units",
+        "Subplan/Option Electives": "18 units",
+        "notes": "Personal Computer Proficiency Requirement"
+    },
+    "Business Administration, B.S. - Computer Information Systems Subplan/Option": {
+        "name": "Business Administration, B.S. - Computer Information Systems Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "12 units",
+        "Subplan/Option Electives": "15 units",
+        "notes": "Personal Computer Proficiency Requirement"
+    },
+    "Business Administration, B.S. - Accounting Subplan/Option": {
+        "name": "Business Administration, B.S. - Accounting Subplan/Option",
+        "units": "120 units",
+        "Major Required": "51 units",
+        "Subplan/Option Required": "21 units",
+        "Subplan/Option Electives": "6 units",
+        "notes": "Personal Computer Proficiency Requirement"
+    }
+}

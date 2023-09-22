@@ -1,37 +1,5 @@
 import csv
-
-class MajorInfo:
-    def __init__(self, name):
-        self.name = name
-        self.major_required: int | None = None
-        self.major_electives: int | None = None
-        self.certificate_required: int | None = None
-        self.subplan_required: int | None = None
-        self.specialization: int | None = None
-        self.dissertation_seminar: int | None = None
-        self.dissertation: int | None = None
-        self.culminating_experience: int | None = None
-        self.professional_practice_requirement: str | None = None
-        self.general_standing: int | None = None
-        self.credential_required: int | None = None
-
-class CourseInfo:
-    def __init__(self, courseID, name, units: str | None = None):
-        self.courseID = courseID
-        self.name = name
-        self.units = units
-        self.description = ''
-        self.prerequisites = []
-
-# Read the requirements file to get the majors and their requirements
-# major_requirements = {}
-# with open('./CourseCurriculum/2023-2024_Requirements.csv', 'r') as f:
-#     reader = csv.reader(f)
-#     next(reader)  # Skip the header row
-#     for row in reader:
-#         major_name, requirements = row
-#         major_requirements[major_name] = requirements
-
+from .CourseInfo import CourseInfo
 # Read the programs file to get the courses for each major
 major_courses = {}
 with open('./CourseCurriculum/2023-2024_Programs.csv', 'r') as f:
