@@ -4,4 +4,7 @@ class CourseInfo:
         self.name = name
         self.units = units
         self.description = ''
+        self.required_standing = []
         self.prerequisites = []
+        self.corequisites = []
+    
