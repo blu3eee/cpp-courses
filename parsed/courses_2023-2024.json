@@ -113,8 +113,8 @@
   },
   "ARC 4990": {
     "id": "ARC 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -127,8 +127,8 @@
   },
   "ARC 4990L": {
     "id": "ARC 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -148,8 +148,8 @@
   },
   "ARC 4990A": {
     "id": "ARC 4990A",
-    "name": "Special Topics for Upper Division Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Activity",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -232,8 +232,8 @@
   },
   "GER 4990": {
     "id": "GER 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -246,8 +246,8 @@
   },
   "GER 2990": {
     "id": "GER 2990",
-    "name": "Special Topics for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -729,8 +729,8 @@
   },
   "BIO 4410": {
     "id": "BIO 4410",
-    "name": "Internship in Biology (1",
-    "units": "-2",
+    "name": "Internship in Biology",
+    "units": "1-2",
     "prerequisites": "Completion of 60 or more units. Overall GPA of 2.0 or higher. Completed application signed by the on-site job supervisor and on-campus internship coordinator.",
     "corequisites": ""
   },
@@ -1191,8 +1191,8 @@
   },
   "BIO 4550L": {
     "id": "BIO 4550L",
-    "name": "Field Biology Laboratory (1",
-    "units": "-3",
+    "name": "Field Biology Laboratory",
+    "units": "1-3",
     "prerequisites": "Special topics course which will have requisites added as needed.",
     "corequisites": ""
   },
@@ -1205,8 +1205,8 @@
   },
   "BIO 4550A": {
     "id": "BIO 4550A",
-    "name": "Field Biology Activity (1",
-    "units": "-3",
+    "name": "Field Biology Activity",
+    "units": "1-3",
     "prerequisites": "Special topics course which will have requisites added as needed.",
     "corequisites": ""
   },
@@ -1219,8 +1219,8 @@
   },
   "BIO 4550": {
     "id": "BIO 4550",
-    "name": "Field Biology (1",
-    "units": "-3",
+    "name": "Field Biology",
+    "units": "1-3",
     "prerequisites": "Special topics course which will have requisites added as needed.",
     "corequisites": ""
   },
@@ -1590,8 +1590,8 @@
   },
   "ARC 4750": {
     "id": "ARC 4750",
-    "name": "Teaching Practicum (1",
-    "units": "-3",
+    "name": "Teaching Practicum",
+    "units": "1-3",
     "prerequisites": "ARC Graduate or Advanced Standing; ARC 362 or ARC 3620 , and ARC 362A or ARC 3622 .",
     "corequisites": ""
   },
@@ -4250,8 +4250,8 @@
   },
   "STA 5990": {
     "id": "STA 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -4271,8 +4271,8 @@
   },
   "EGR 6960": {
     "id": "EGR 6960",
-    "name": "Master's Degree Thesis (1",
-    "units": "-2",
+    "name": "Master's Degree Thesis",
+    "units": "1-2",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -4285,8 +4285,8 @@
   },
   "EGR 6910": {
     "id": "EGR 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -4320,8 +4320,8 @@
   },
   "KIN 6960": {
     "id": "KIN 6960",
-    "name": "Master's Degree Thesis (1",
-    "units": "-3",
+    "name": "Master's Degree Thesis",
+    "units": "1-3",
     "prerequisites": "KIN 5900 and KIN 5910 with a B grade or better, KIN 5920 , and KIN 5930 .",
     "corequisites": ""
   },
@@ -4369,8 +4369,8 @@
   },
   "KIN 6950": {
     "id": "KIN 6950",
-    "name": "Master's Degree Project (1",
-    "units": "-3",
+    "name": "Master's Degree Project",
+    "units": "1-3",
     "prerequisites": "KIN 5900 and KIN 5910 with a grade B or better, KIN 5920 , and KIN 5930 .",
     "corequisites": ""
   },
@@ -4460,8 +4460,8 @@
   },
   "INA 6920": {
     "id": "INA 6920",
-    "name": "Independent Research (1",
-    "units": "-3",
+    "name": "Independent Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -4488,8 +4488,8 @@
   },
   "INA 5990": {
     "id": "INA 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -4621,8 +4621,8 @@
   },
   "IAM 5800": {
     "id": "IAM 5800",
-    "name": "Seminar in International Apparel Management (1",
-    "units": "-3",
+    "name": "Seminar in International Apparel Management",
+    "units": "1-3",
     "prerequisites": "Graduate standing.",
     "corequisites": ""
   },
@@ -4726,8 +4726,8 @@
   },
   "KIN 6920": {
     "id": "KIN 6920",
-    "name": "Independent Research (1",
-    "units": "-3",
+    "name": "Independent Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -4740,8 +4740,8 @@
   },
   "KIN 6910": {
     "id": "KIN 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -4754,8 +4754,8 @@
   },
   "KIN 5990L": {
     "id": "KIN 5990L",
-    "name": "Special Topics for Graduate Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students Laboratory",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -4768,22 +4768,22 @@
   },
   "KIN 5990A": {
     "id": "KIN 5990A",
-    "name": "Special Topics for Graduate Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students Activity",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
   "KIN 5000": {
     "id": "KIN 5000",
-    "name": "Special Study for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Study for Graduate Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "KIN 5990": {
     "id": "KIN 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -4796,8 +4796,8 @@
   },
   "KIN 4410": {
     "id": "KIN 4410",
-    "name": "Internship in Kinesiology (1",
-    "units": "-2",
+    "name": "Internship in Kinesiology",
+    "units": "1-2",
     "prerequisites": "Upper Division or Graduate standing.",
     "corequisites": ""
   },
@@ -4901,8 +4901,8 @@
   },
   "LA 6910": {
     "id": "LA 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -4915,8 +4915,8 @@
   },
   "LA 6920": {
     "id": "LA 6920",
-    "name": "Independent Research (1",
-    "units": "-3",
+    "name": "Independent Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -4936,15 +4936,15 @@
   },
   "LA 5990": {
     "id": "LA 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "LA 4990": {
     "id": "LA 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -5027,8 +5027,8 @@
   },
   "EGR 5990": {
     "id": "EGR 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -5083,8 +5083,8 @@
   },
   "MTE 5990": {
     "id": "MTE 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -5153,8 +5153,8 @@
   },
   "MAT 6910": {
     "id": "MAT 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -5286,8 +5286,8 @@
   },
   "MAT 5990": {
     "id": "MAT 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -5552,8 +5552,8 @@
   },
   "ME 5990": {
     "id": "ME 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -5874,8 +5874,8 @@
   },
   "MPA 5410": {
     "id": "MPA 5410",
-    "name": "Internship (1",
-    "units": "-3",
+    "name": "Internship",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -6014,8 +6014,8 @@
   },
   "MPA 5000": {
     "id": "MPA 5000",
-    "name": "Special Study for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Study for Graduate Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -6112,15 +6112,15 @@
   },
   "URP 6910": {
     "id": "URP 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "URP 5410": {
     "id": "URP 5410",
-    "name": "Field Internship (1",
-    "units": "-2",
+    "name": "Field Internship",
+    "units": "1-2",
     "prerequisites": "Instructor Consent.",
     "corequisites": ""
   },
@@ -6147,8 +6147,8 @@
   },
   "URP 5990": {
     "id": "URP 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -6189,8 +6189,8 @@
   },
   "URP 4990": {
     "id": "URP 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -6238,8 +6238,8 @@
   },
   "URP 4980L": {
     "id": "URP 4980L",
-    "name": "Advanced Planning Studio Laboratory (1",
-    "units": "-3",
+    "name": "Advanced Planning Studio Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": "URP 4980 ."
   },
@@ -6511,8 +6511,8 @@
   },
   "URP 4000": {
     "id": "URP 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -6756,8 +6756,8 @@
   },
   "EDD 8000": {
     "id": "EDD 8000",
-    "name": "Dissertation (1",
-    "units": "-6",
+    "name": "Dissertation",
+    "units": "1-6",
     "prerequisites": "Admission to Ed. Leadership Doctoral Program.",
     "corequisites": ""
   },
@@ -6959,8 +6959,8 @@
   },
   "ECE 6960": {
     "id": "ECE 6960",
-    "name": "Master's Degree Thesis (1",
-    "units": "-3",
+    "name": "Master's Degree Thesis",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -6980,8 +6980,8 @@
   },
   "ERA 6960": {
     "id": "ERA 6960",
-    "name": "Master's Degree Thesis (1",
-    "units": "-6",
+    "name": "Master's Degree Thesis",
+    "units": "1-6",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -7134,8 +7134,8 @@
   },
   "CS 6960": {
     "id": "CS 6960",
-    "name": "Master's Degree Thesis (1",
-    "units": "-3",
+    "name": "Master's Degree Thesis",
+    "units": "1-3",
     "prerequisites": "CS 691 or CS 6940 , GWT*, Advancement to Candidacy, and approval of thesis committee.",
     "corequisites": ""
   },
@@ -7155,15 +7155,15 @@
   },
   "CS 6910": {
     "id": "CS 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "CS 5990": {
     "id": "CS 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -7358,8 +7358,8 @@
   },
   "NTR 6940": {
     "id": "NTR 6940",
-    "name": "Thesis Research (1",
-    "units": "-3",
+    "name": "Thesis Research",
+    "units": "1-3",
     "prerequisites": "Instructor consent.",
     "corequisites": "NTR 6930 ."
   },
@@ -7680,8 +7680,8 @@
   },
   "ERA 6920": {
     "id": "ERA 6920",
-    "name": "Independent Research (1",
-    "units": "-3",
+    "name": "Independent Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -7876,15 +7876,15 @@
   },
   "ERA 6950": {
     "id": "ERA 6950",
-    "name": "Master's Degree Project (1",
-    "units": "-6",
+    "name": "Master's Degree Project",
+    "units": "1-6",
     "prerequisites": "Open to graduate candidates with approval of Department Chair.",
     "corequisites": ""
   },
   "ERA 5990": {
     "id": "ERA 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Admitted to MA Program, Multiple Subject, Single Subject, or Education Specialist Credential Program.",
     "corequisites": ""
   },
@@ -7925,8 +7925,8 @@
   },
   "ECI 5990": {
     "id": "ECI 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -8016,8 +8016,8 @@
   },
   "ECE 6910": {
     "id": "ECE 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -8639,8 +8639,8 @@
   },
   "GSC 5990L": {
     "id": "GSC 5990L",
-    "name": "Special Topics for Graduate Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students Laboratory",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -8653,15 +8653,15 @@
   },
   "GSC 6940": {
     "id": "GSC 6940",
-    "name": "Master's Thesis Research (1",
-    "units": "-3",
+    "name": "Master's Thesis Research",
+    "units": "1-3",
     "prerequisites": "GSC 600 or GSC 6930 .",
     "corequisites": ""
   },
   "GSC 5990A": {
     "id": "GSC 5990A",
-    "name": "Special Topics for Graduate Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students Activity",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -8674,8 +8674,8 @@
   },
   "GSC 5990": {
     "id": "GSC 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -8758,22 +8758,22 @@
   },
   "GSC 4990L": {
     "id": "GSC 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "GSC 4990A": {
     "id": "GSC 4990A",
-    "name": "Special Topics for Upper Division Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Activity",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "GSC 4990": {
     "id": "GSC 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -8800,8 +8800,8 @@
   },
   "GSC 4910L": {
     "id": "GSC 4910L",
-    "name": "Field Module Laboratory (1",
-    "units": "-2",
+    "name": "Field Module Laboratory",
+    "units": "1-2",
     "prerequisites": "GSC 255 or GSC 2550L .",
     "corequisites": ""
   },
@@ -9136,8 +9136,8 @@
   },
   "HRT 5990": {
     "id": "HRT 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -9157,8 +9157,8 @@
   },
   "HRT 5410": {
     "id": "HRT 5410",
-    "name": "Graduate Internship in Hospitality Management (1",
-    "units": "-3",
+    "name": "Graduate Internship in Hospitality Management",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -9178,8 +9178,8 @@
   },
   "HRT 5000": {
     "id": "HRT 5000",
-    "name": "Special Study for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Study for Graduate Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -9234,8 +9234,8 @@
   },
   "CE 5990": {
     "id": "CE 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing and Instructor Consent.",
     "corequisites": ""
   },
@@ -9283,8 +9283,8 @@
   },
   "BIO 5990L": {
     "id": "BIO 5990L",
-    "name": "Special Topics for Graduate Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students Laboratory",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -9318,8 +9318,8 @@
   },
   "NTR 5710": {
     "id": "NTR 5710",
-    "name": "Seminar in Nutrition-Journal Club (1",
-    "units": "-2",
+    "name": "Seminar in Nutrition-Journal Club",
+    "units": "1-2",
     "prerequisites": "NTR 5100 or instructor consent.",
     "corequisites": ""
   },
@@ -9332,15 +9332,15 @@
   },
   "AVS 6960": {
     "id": "AVS 6960",
-    "name": "Master's Degree Thesis (1",
-    "units": "-2",
+    "name": "Master's Degree Thesis",
+    "units": "1-2",
     "prerequisites": "Graduate students only. Advancement to Candidacy required.",
     "corequisites": ""
   },
   "NTR 5700": {
     "id": "NTR 5700",
-    "name": "Seminar in Nutrition (1",
-    "units": "-2",
+    "name": "Seminar in Nutrition",
+    "units": "1-2",
     "prerequisites": "NTR 5100 or instructor consent.",
     "corequisites": ""
   },
@@ -9353,15 +9353,15 @@
   },
   "AVS 6920": {
     "id": "AVS 6920",
-    "name": "Independent Research (1",
-    "units": "-3",
+    "name": "Independent Research",
+    "units": "1-3",
     "prerequisites": "Graduate standing, and permission of instructor and department chair.",
     "corequisites": "Graduate standing, and permission of instructor and department chair."
   },
   "AVS 6910": {
     "id": "AVS 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "Graduate standing, and permission of instructor and department chair. Total credit limited to six units, with a maximum of 3 units per semester.",
     "corequisites": "Graduate standing, and permission of instructor and department chair. Total credit limited to six units, with a maximum of 3 units per semester."
   },
@@ -9479,15 +9479,15 @@
   },
   "ACC 5990": {
     "id": "ACC 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
   "ACC 5000": {
     "id": "ACC 5000",
-    "name": "Special Study for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Study for Graduate Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -9500,8 +9500,8 @@
   },
   "ACC 5410": {
     "id": "ACC 5410",
-    "name": "Internship In Accounting (1",
-    "units": "-3",
+    "name": "Internship In Accounting",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -9682,8 +9682,8 @@
   },
   "AVS 5990": {
     "id": "AVS 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing and permission of instructor.",
     "corequisites": "Graduate class standing and permission of instructor."
   },
@@ -9703,8 +9703,8 @@
   },
   "AVS 6940": {
     "id": "AVS 6940",
-    "name": "Master Thesis / Project Research (1",
-    "units": "-4",
+    "name": "Master Thesis / Project Research",
+    "units": "1-4",
     "prerequisites": "Graduate student, Unconditional standing required.",
     "corequisites": ""
   },
@@ -9885,8 +9885,8 @@
   },
   "ARC 5990L": {
     "id": "ARC 5990L",
-    "name": "Special Topics for Graduate Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students Laboratory",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -9899,29 +9899,29 @@
   },
   "PLT 6960": {
     "id": "PLT 6960",
-    "name": "Master's Thesis (1",
-    "units": "-3",
+    "name": "Master's Thesis",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
   "PLT 6920": {
     "id": "PLT 6920",
-    "name": "Independent Research (1",
-    "units": "-3",
+    "name": "Independent Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "ARC 5990": {
     "id": "ARC 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
   "PLT 6940": {
     "id": "PLT 6940",
-    "name": "Master's Thesis/Project Research (1",
-    "units": "-3",
+    "name": "Master's Thesis/Project Research",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -9934,15 +9934,15 @@
   },
   "PLT 6910": {
     "id": "PLT 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "Graduate Standing or Instructor Consent.",
     "corequisites": ""
   },
   "ARC 5990A": {
     "id": "ARC 5990A",
-    "name": "Special Topics for Graduate Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students Activity",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -10109,8 +10109,8 @@
   },
   "BIO 5990": {
     "id": "BIO 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -10165,8 +10165,8 @@
   },
   "BIO 5600": {
     "id": "BIO 5600",
-    "name": "Advanced Microbiology (1",
-    "units": "-3",
+    "name": "Advanced Microbiology",
+    "units": "1-3",
     "prerequisites": "Graduate student in good standing.",
     "corequisites": ""
   },
@@ -10179,8 +10179,8 @@
   },
   "BIO 5600L": {
     "id": "BIO 5600L",
-    "name": "Advanced Microbiology Laboratory (1",
-    "units": "-2",
+    "name": "Advanced Microbiology Laboratory",
+    "units": "1-2",
     "prerequisites": "Graduate student.",
     "corequisites": "BIO 5600 ."
   },
@@ -10200,8 +10200,8 @@
   },
   "BIO 5320": {
     "id": "BIO 5320",
-    "name": "Advanced Physiology (1",
-    "units": "-3",
+    "name": "Advanced Physiology",
+    "units": "1-3",
     "prerequisites": "Graduate student in good standing.",
     "corequisites": ""
   },
@@ -10221,8 +10221,8 @@
   },
   "BIO 5150L": {
     "id": "BIO 5150L",
-    "name": "Advanced R Programming and Statistics Topics (1",
-    "units": "-3",
+    "name": "Advanced R Programming and Statistics Topics",
+    "units": "1-3",
     "prerequisites": "BIO 5100 and BIO 5100L .",
     "corequisites": ""
   },
@@ -10249,43 +10249,43 @@
   },
   "BIO 4990L": {
     "id": "BIO 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "BIO 6920": {
     "id": "BIO 6920",
-    "name": "Independent Research (1",
-    "units": "-3",
+    "name": "Independent Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "BIO 6940": {
     "id": "BIO 6940",
-    "name": "Master's Thesis/Project Research (1",
-    "units": "-2",
+    "name": "Master's Thesis/Project Research",
+    "units": "1-2",
     "prerequisites": "Graduate student in good standing.",
     "corequisites": ""
   },
   "BIO 4990": {
     "id": "BIO 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "BIO 6910": {
     "id": "BIO 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "BIO 5000": {
     "id": "BIO 5000",
-    "name": "Special Study for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Study for Graduate Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -10298,8 +10298,8 @@
   },
   "BIO 6800": {
     "id": "BIO 6800",
-    "name": "Seminar in Biology (1",
-    "units": "-3",
+    "name": "Seminar in Biology",
+    "units": "1-3",
     "prerequisites": "Graduate student in good standing.",
     "corequisites": ""
   },
@@ -10368,36 +10368,36 @@
   },
   "CHM 6940": {
     "id": "CHM 6940",
-    "name": "Master's Thesis Research (1",
-    "units": "-2",
+    "name": "Master's Thesis Research",
+    "units": "1-2",
     "prerequisites": "Graduate standing or instructor consent.",
     "corequisites": ""
   },
   "CHM 6960": {
     "id": "CHM 6960",
-    "name": "Master's Thesis (1",
-    "units": "-2",
+    "name": "Master's Thesis",
+    "units": "1-2",
     "prerequisites": "Graduate standing or instructor consent.",
     "corequisites": ""
   },
   "CHM 4990L": {
     "id": "CHM 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "CHM 4990": {
     "id": "CHM 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "CHM 4990A": {
     "id": "CHM 4990A",
-    "name": "Special Topics for Upper Division Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Activity",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -10410,8 +10410,8 @@
   },
   "CHM 4410": {
     "id": "CHM 4410",
-    "name": "Internship in Chemistry (1",
-    "units": "-2",
+    "name": "Internship in Chemistry",
+    "units": "1-2",
     "prerequisites": "Completion of 60 units, Overall GPA 2.0 or higher and Signed application.",
     "corequisites": ""
   },
@@ -10494,8 +10494,8 @@
   },
   "CHM 4000": {
     "id": "CHM 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -10508,8 +10508,8 @@
   },
   "CHM 6910": {
     "id": "CHM 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -10522,15 +10522,15 @@
   },
   "CHM 5990L": {
     "id": "CHM 5990L",
-    "name": "Special Topics for Graduate Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students Laboratory",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
   "CHM 5990A": {
     "id": "CHM 5990A",
-    "name": "Special Topics for Graduate Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students Activity",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -10543,8 +10543,8 @@
   },
   "CHM 5990": {
     "id": "CHM 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -10641,8 +10641,8 @@
   },
   "CHM 5000": {
     "id": "CHM 5000",
-    "name": "Special Study for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Study for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate standing or instructor consent.",
     "corequisites": ""
   },
@@ -10767,8 +10767,8 @@
   },
   "GBA 6920": {
     "id": "GBA 6920",
-    "name": "Independent Research (1",
-    "units": "-3",
+    "name": "Independent Research",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -10788,8 +10788,8 @@
   },
   "GBA 6910": {
     "id": "GBA 6910",
-    "name": "Directed Research (1",
-    "units": "-3",
+    "name": "Directed Research",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -10935,8 +10935,8 @@
   },
   "GBA 5990": {
     "id": "GBA 5990",
-    "name": "Special Topics for Graduate Students (1",
-    "units": "-3",
+    "name": "Special Topics for Graduate Students",
+    "units": "1-3",
     "prerequisites": "Graduate Standing.",
     "corequisites": ""
   },
@@ -11439,15 +11439,15 @@
   },
   "EDU 5421": {
     "id": "EDU 5421",
-    "name": "Extended Intern Supervision (1",
-    "units": "-9",
+    "name": "Extended Intern Supervision",
+    "units": "1-9",
     "prerequisites": "Admission to the teacher intern program and consent of Credential Services Coordinator.",
     "corequisites": ""
   },
   "EDU 5348": {
     "id": "EDU 5348",
-    "name": "Internship Clinical Practice for Preliminary Education Specialist Extensive Support Needs Credential (1",
-    "units": "-8",
+    "name": "Internship Clinical Practice for Preliminary Education Specialist Extensive Support Needs Credential",
+    "units": "1-8",
     "prerequisites": "Admitted to Education Specialist Credential.",
     "corequisites": "EDU 5351 ."
   },
@@ -11481,8 +11481,8 @@
   },
   "EDL 6920": {
     "id": "EDL 6920",
-    "name": "Independent Research (1",
-    "units": "-3",
+    "name": "Independent Research",
+    "units": "1-3",
     "prerequisites": "Admitted to Preliminary ASC Program; complete a valid Intern MOU with CPP and district; and continuing enrollment in Preliminary ASC course sequence until completion.",
     "corequisites": ""
   },
@@ -11495,8 +11495,8 @@
   },
   "EDU 5160": {
     "id": "EDU 5160",
-    "name": "Multiple Subject Clinical Practice (1",
-    "units": "-9",
+    "name": "Multiple Subject Clinical Practice",
+    "units": "1-9",
     "prerequisites": "Admitted to Multiple Subject Credential, admitted to Multiple Subject Clinical Practice, EDU 5105 or TED 444, EDU 5115 or TED 431, EDU 5120 or TED 451, EDU 5110 or TED 425, and EDU 5150 .",
     "corequisites": "EDU 5180 ."
   },
@@ -11516,8 +11516,8 @@
   },
   "PLT 4990": {
     "id": "PLT 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -11530,8 +11530,8 @@
   },
   "PLT 4990L": {
     "id": "PLT 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -12167,8 +12167,8 @@
   },
   "PLT 2990": {
     "id": "PLT 2990",
-    "name": "Special Topics for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -12188,8 +12188,8 @@
   },
   "PLT 2990L": {
     "id": "PLT 2990L",
-    "name": "Special Topics for Lower Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Lower Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -12433,8 +12433,8 @@
   },
   "EDU 5420": {
     "id": "EDU 5420",
-    "name": "Internship Single Subject Clinical Practice (1",
-    "units": "-9",
+    "name": "Internship Single Subject Clinical Practice",
+    "units": "1-9",
     "prerequisites": "Admitted to Single Subject Credential, admitted to Single Subject Clinical Practice, EDU 5205 or TED 434, EDU 5210 or TED 442, EDU 5215 or TED 446, and EDU 5200 or TED 432.",
     "corequisites": "EDU 5280 ."
   },
@@ -12447,8 +12447,8 @@
   },
   "EDU 5410": {
     "id": "EDU 5410",
-    "name": "Multiple Subject Clinical Practice Internship (1",
-    "units": "-9",
+    "name": "Multiple Subject Clinical Practice Internship",
+    "units": "1-9",
     "prerequisites": "Admitted to Multiple Subject Credential, admitted to Multiple Subject Clinical Practice; EDU 5010 or TED 406; EDU 5020 , or TED 405 and TED 407; EDU 5100 or TED 443; and EDU 5302 or EDS 403.",
     "corequisites": "EDU 5125 and EDU 5180 ."
   },
@@ -12461,8 +12461,8 @@
   },
   "EDU 5346": {
     "id": "EDU 5346",
-    "name": "Clinical Practice for Preliminary Education Specialist Mild to Moderate Support Needs Intern Credent (1",
-    "units": "-8",
+    "name": "Clinical Practice for Preliminary Education Specialist Mild to Moderate Support Needs Intern Credent",
+    "units": "1-8",
     "prerequisites": "Admitted to Education Specialist Credential.",
     "corequisites": "EDU 5351 ."
   },
@@ -12475,15 +12475,15 @@
   },
   "EDU 5345": {
     "id": "EDU 5345",
-    "name": "Clinical Practice for Preliminary Education Specialist Mild to Moderate Support Needs Credential (1",
-    "units": "-8",
+    "name": "Clinical Practice for Preliminary Education Specialist Mild to Moderate Support Needs Credential",
+    "units": "1-8",
     "prerequisites": "Admitted to Education Specialist Credential.",
     "corequisites": "EDU 5351 ."
   },
   "EDU 5347": {
     "id": "EDU 5347",
-    "name": "Clinical Practice for Preliminary Education Specialist Extensive Support Needs Credential (1",
-    "units": "-8",
+    "name": "Clinical Practice for Preliminary Education Specialist Extensive Support Needs Credential",
+    "units": "1-8",
     "prerequisites": "Admitted to Education Specialist Credential.",
     "corequisites": "EDU 5351 ."
   },
@@ -12524,15 +12524,15 @@
   },
   "EDU 5260": {
     "id": "EDU 5260",
-    "name": "Single Subject Clinical Practice (1",
-    "units": "-8",
+    "name": "Single Subject Clinical Practice",
+    "units": "1-8",
     "prerequisites": "Admitted to Single Subject Credential, EDU 5205 or TED 434, EDU 5210 or TED 442, EDU 5215 or TED 446, and EDU 5200 or TED 432.",
     "corequisites": "EDU 5280 ."
   },
   "STA 4990": {
     "id": "STA 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -12601,8 +12601,8 @@
   },
   "RS 4990L": {
     "id": "RS 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "To be specified in the course outline.",
     "corequisites": ""
   },
@@ -12615,8 +12615,8 @@
   },
   "RS 4990": {
     "id": "RS 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "To be specified in the course outline.",
     "corequisites": ""
   },
@@ -12783,8 +12783,8 @@
   },
   "BIO 4990A": {
     "id": "BIO 4990A",
-    "name": "Special Topics for Upper Division Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Activity",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -12888,8 +12888,8 @@
   },
   "AG 2990": {
     "id": "AG 2990",
-    "name": "Special Topics for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -13539,8 +13539,8 @@
   },
   "RS 4000": {
     "id": "RS 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "Instructor Consent.",
     "corequisites": ""
   },
@@ -14288,8 +14288,8 @@
   },
   "IBM 4990": {
     "id": "IBM 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -14505,8 +14505,8 @@
   },
   "IBM 4410": {
     "id": "IBM 4410",
-    "name": "Internship in Marketing and International Business (1",
-    "units": "-3",
+    "name": "Internship in Marketing and International Business",
+    "units": "1-3",
     "prerequisites": "Undergraduate Standing.",
     "corequisites": ""
   },
@@ -14687,15 +14687,15 @@
   },
   "MTE 4990A": {
     "id": "MTE 4990A",
-    "name": "Special Topics for Upper Division Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Activity",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "MTE 4990L": {
     "id": "MTE 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -14708,8 +14708,8 @@
   },
   "MTE 4990": {
     "id": "MTE 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -15198,8 +15198,8 @@
   },
   "EWS 4990": {
     "id": "EWS 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -15310,8 +15310,8 @@
   },
   "EWS 4000": {
     "id": "EWS 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -15555,8 +15555,8 @@
   },
   "PLS 4990": {
     "id": "PLS 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -16136,8 +16136,8 @@
   },
   "GEO 4000": {
     "id": "GEO 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -16857,8 +16857,8 @@
   },
   "CHN 4990": {
     "id": "CHN 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -17809,22 +17809,22 @@
   },
   "URP 4990L": {
     "id": "URP 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "URP 4410": {
     "id": "URP 4410",
-    "name": "Field Internship (1",
-    "units": "-2",
+    "name": "Field Internship",
+    "units": "1-2",
     "prerequisites": "Instructor Consent.",
     "corequisites": ""
   },
   "URP 4990A": {
     "id": "URP 4990A",
-    "name": "Special Topics for Upper Division Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Activity",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -18236,8 +18236,8 @@
   },
   "VCD 4410": {
     "id": "VCD 4410",
-    "name": "Visual Communication Design: Internship (1",
-    "units": "-2",
+    "name": "Visual Communication Design: Internship",
+    "units": "1-2",
     "prerequisites": "C- or better in: VCD 1311A or ART140A/141A; VCD 1312A or ART242A/244A; VCD 1321A or ART150A/253A; VCD 1331A or ART180A, 190A, 342A or 395A; VCD 1341A or ART155A; VCD 2301A or ART251A; and VCD 2321A or ART252A; VCD major Jr or Sr Standing; and Instructor Consent.",
     "corequisites": ""
   },
@@ -18453,8 +18453,8 @@
   },
   "PSY 4990": {
     "id": "PSY 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -18467,15 +18467,15 @@
   },
   "PLT 4000": {
     "id": "PLT 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "PSY 4000": {
     "id": "PSY 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -19041,8 +19041,8 @@
   },
   "NTR 4420": {
     "id": "NTR 4420",
-    "name": "Internship in Food and Nutrition (1",
-    "units": "-3",
+    "name": "Internship in Food and Nutrition",
+    "units": "1-3",
     "prerequisites": "Instructor consent.",
     "corequisites": ""
   },
@@ -19055,8 +19055,8 @@
   },
   "NTR 4410": {
     "id": "NTR 4410",
-    "name": "Internship in Food and Nutrition (1",
-    "units": "-3",
+    "name": "Internship in Food and Nutrition",
+    "units": "1-3",
     "prerequisites": "Instructor consent.",
     "corequisites": ""
   },
@@ -19251,8 +19251,8 @@
   },
   "PHY 4990": {
     "id": "PHY 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -19265,22 +19265,22 @@
   },
   "PHY 4000": {
     "id": "PHY 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "PHY 2990": {
     "id": "PHY 2990",
-    "name": "Special Topics for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "PHY 2000": {
     "id": "PHY 2000",
-    "name": "Special Study for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -19335,8 +19335,8 @@
   },
   "PHY 4410": {
     "id": "PHY 4410",
-    "name": "Internship in Physics (1",
-    "units": "-2",
+    "name": "Internship in Physics",
+    "units": "1-2",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -19475,15 +19475,15 @@
   },
   "PLT 2000": {
     "id": "PLT 2000",
-    "name": "Special Study for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "PLT 2990A": {
     "id": "PLT 2990A",
-    "name": "Special Topics for Lower Division Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Lower Division Students Activity",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -20112,15 +20112,15 @@
   },
   "ME 4990L": {
     "id": "ME 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "ME 4990A": {
     "id": "ME 4990A",
-    "name": "Special Topics for Upper Division Students Activity (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Activity",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -20231,8 +20231,8 @@
   },
   "HRT 4410": {
     "id": "HRT 4410",
-    "name": "Internship in Hospitality Management (1",
-    "units": "-4",
+    "name": "Internship in Hospitality Management",
+    "units": "1-4",
     "prerequisites": "HRT 3410 and consent of Internship Coordinator.",
     "corequisites": ""
   },
@@ -20252,8 +20252,8 @@
   },
   "HST 4990": {
     "id": "HST 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "Completion of GE Area A, and junior or senior standing.",
     "corequisites": ""
   },
@@ -20896,8 +20896,8 @@
   },
   "IME 2990": {
     "id": "IME 2990",
-    "name": "Special Topics for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -21442,8 +21442,8 @@
   },
   "IME 4990": {
     "id": "IME 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -21470,8 +21470,8 @@
   },
   "IME 4000": {
     "id": "IME 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -21484,8 +21484,8 @@
   },
   "IME 2000": {
     "id": "IME 2000",
-    "name": "Special Study for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -21750,8 +21750,8 @@
   },
   "ME 4990": {
     "id": "ME 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -22233,8 +22233,8 @@
   },
   "MU 3920": {
     "id": "MU 3920",
-    "name": "Music Industry Studies Internship (1",
-    "units": "-2",
+    "name": "Music Industry Studies Internship",
+    "units": "1-2",
     "prerequisites": "Junior or Senior standing; and Instructor consent.",
     "corequisites": ""
   },
@@ -22303,8 +22303,8 @@
   },
   "FST 4420": {
     "id": "FST 4420",
-    "name": "Internship in Food Science and Technology (1",
-    "units": "-4",
+    "name": "Internship in Food Science and Technology",
+    "units": "1-4",
     "prerequisites": "C- or better in FST 3900 or FST 390.",
     "corequisites": ""
   },
@@ -22345,8 +22345,8 @@
   },
   "ETE 4990": {
     "id": "ETE 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -22457,8 +22457,8 @@
   },
   "ECE 4990L": {
     "id": "ECE 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -22471,8 +22471,8 @@
   },
   "ECE 4990": {
     "id": "ECE 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -23157,15 +23157,15 @@
   },
   "ETM 4990L": {
     "id": "ETM 4990L",
-    "name": "Special Topics for Upper Division Students Laboratory (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students Laboratory",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "ETM 4990": {
     "id": "ETM 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -23724,8 +23724,8 @@
   },
   "FST 4410": {
     "id": "FST 4410",
-    "name": "Internship in Food Science and Technology (1",
-    "units": "-4",
+    "name": "Internship in Food Science and Technology",
+    "units": "1-4",
     "prerequisites": "C- or better in FST 3900 or FST 390.",
     "corequisites": ""
   },
@@ -24522,15 +24522,15 @@
   },
   "CS 4000": {
     "id": "CS 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
   "CS 4410": {
     "id": "CS 4410",
-    "name": "Internship in Computer Science (1",
-    "units": "-2",
+    "name": "Internship in Computer Science",
+    "units": "1-2",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -24557,8 +24557,8 @@
   },
   "CS 2000": {
     "id": "CS 2000",
-    "name": "Special Study for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -24571,8 +24571,8 @@
   },
   "CS 2990": {
     "id": "CS 2990",
-    "name": "Special Topics for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -24585,8 +24585,8 @@
   },
   "CS 4990": {
     "id": "CS 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -24991,8 +24991,8 @@
   },
   "IBM 4000": {
     "id": "IBM 4000",
-    "name": "Special Study for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -25082,8 +25082,8 @@
   },
   "ACC 4611": {
     "id": "ACC 4611",
-    "name": "Senior Project I (1",
-    "units": "-2",
+    "name": "Senior Project I",
+    "units": "1-2",
     "prerequisites": "C or better in ACC 3110 ; or ACC 311 and ACC 312.",
     "corequisites": ""
   },
@@ -25096,15 +25096,15 @@
   },
   "ACC 4621": {
     "id": "ACC 4621",
-    "name": "Senior Project II (1",
-    "units": "-2",
+    "name": "Senior Project II",
+    "units": "1-2",
     "prerequisites": "C or better in ACC 4611 or ACC 461.",
     "corequisites": ""
   },
   "ACC 4421": {
     "id": "ACC 4421",
-    "name": "Internship in Public Accounting (1",
-    "units": "-3",
+    "name": "Internship in Public Accounting",
+    "units": "1-3",
     "prerequisites": "Director of Internship Program consent.",
     "corequisites": ""
   },
@@ -25117,8 +25117,8 @@
   },
   "ACC 4411": {
     "id": "ACC 4411",
-    "name": "Accounting Internship (1",
-    "units": "-3",
+    "name": "Accounting Internship",
+    "units": "1-3",
     "prerequisites": "Director of Internship Program consent.",
     "corequisites": ""
   },
@@ -25152,8 +25152,8 @@
   },
   "FRL 4990": {
     "id": "FRL 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "Department Consent.",
     "corequisites": ""
   },
@@ -25222,8 +25222,8 @@
   },
   "FRL 4411": {
     "id": "FRL 4411",
-    "name": "Internship 1 (1",
-    "units": "-3",
+    "name": "Internship 1",
+    "units": "1-3",
     "prerequisites": "C or better in FRL 201 or FRL 2013 ; FRL 301 or FRL 3000 ; STA 120, STA 1200 , or STA 1202 ; and ENG 1103 , ENG 1101 , ENG 103, ENG 104, ENG 107, ENG 109, ENG 110, IGE 1100 / IGE 1200 , or IGE 120/121/122.",
     "corequisites": ""
   },
@@ -25271,8 +25271,8 @@
   },
   "MHR 4410": {
     "id": "MHR 4410",
-    "name": "Internship in Business Management (1",
-    "units": "-2",
+    "name": "Internship in Business Management",
+    "units": "1-2",
     "prerequisites": "Instructor consent and completion Cal Poly's internship documentation and 18-35 hours of internship work per week.",
     "corequisites": ""
   },
@@ -25299,8 +25299,8 @@
   },
   "IBM 2000": {
     "id": "IBM 2000",
-    "name": "Special Study for Lower Division Students (1",
-    "units": "-3",
+    "name": "Special Study for Lower Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },
@@ -25327,8 +25327,8 @@
   },
   "CHE 4990": {
     "id": "CHE 4990",
-    "name": "Special Topics for Upper Division Students (1",
-    "units": "-3",
+    "name": "Special Topics for Upper Division Students",
+    "units": "1-3",
     "prerequisites": "",
     "corequisites": ""
   },

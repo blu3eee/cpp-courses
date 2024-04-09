@@ -282,7 +282,7 @@
       "FST 3220",
       "STA 1200"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "120 units",
     "name": "Agribusiness and Food Industry Management, B.S."
   },
@@ -381,7 +381,7 @@
       "MAT 1050",
       "STA 1200"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "120 units",
     "name": "Animal Health Science, B.S."
   },
@@ -1029,7 +1029,7 @@
   "Dietetic Internship Certificate": {
     "requirements": "Certificate Required: 12 Units",
     "required": ["NTR 5450", "NTR 5600", "NTR 5610"],
-    "electives": [""],
+    "electives": [],
     "units": "12 units",
     "name": "Dietetic Internship Certificate"
   },
@@ -2009,7 +2009,7 @@
   },
   "Civil Engineering, M.S. - Transportation Engineering Subplan/Option": {
     "requirements": "Master of Science in Civil Engineering,Transportation Engineering Subplan/Option,Major Required: 3 units,Subplan/Option Required: 12 units,Subplan/Option Electives: 9-15 units,Culminating Experience: 0-6 units",
-    "required": [""],
+    "required": [],
     "electives": [
       "CE 5020",
       "CE 5610",
@@ -2039,7 +2039,7 @@
   },
   "Civil Engineering, M.S. - Structural Engineering Subplan/Option": {
     "requirements": "Master of Science in Civil Engineering,Structural Engineering Subplan/Option,Major Required: 3 units,Subplan/Option Required: 18 units,Subplan/Option Electives: 3-9 units,Culminating Experience: 0-6 units",
-    "required": [""],
+    "required": [],
     "electives": [
       "CE 5020",
       "CE 5501",
@@ -2065,7 +2065,7 @@
   },
   "Civil Engineering, M.S. - Geotechnical Engineering Subplan/Option": {
     "requirements": "Master of Science in Civil Engineering,Geotechnical Engineering Subplan/Option,Major Required: 3 units,Subplan/Option Required: 12 units,Subplan/Option Electives: 11-17 units,Culminating Experience: 0-6 units",
-    "required": [""],
+    "required": [],
     "electives": [
       "CE 5020",
       "GSC 4150",
@@ -2092,7 +2092,7 @@
   },
   "Civil Engineering, M.S. - Environmental and Water Resources Engineering Subplan/Option": {
     "requirements": "Master of Science in Civil Engineering,Environmental and Water Resources Engineering Subplan/Option,Major Required: 3 units,Subplan/Option Required: 12 units,Subplan/Option Electives: 9-15 units,Culminating Experience: 0-6 units",
-    "required": [""],
+    "required": [],
     "electives": [
       "CE 5020",
       "CE 5210",
@@ -2116,7 +2116,7 @@
   },
   "Civil Engineering, M.S. - Construction Engineering and Management Subplan/Option": {
     "requirements": "Master of Science in Civil Engineering,Construction Engineering and Management Subplan/Option,Major Required: 3 units,Subplan/Option Required: 12 units,Subplan/Option Electives: 9-15 units,Culminating Experience: 0-6 units",
-    "required": [""],
+    "required": [],
     "electives": [
       "CE 5020",
       "CE 5111",
@@ -2535,7 +2535,7 @@
       "EDU 5280",
       "EDU 5302"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "36 units",
     "name": "Single Subject Credential"
   },
@@ -2558,7 +2558,7 @@
       "EDU 5347",
       "EDU 5348"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "48 units",
     "name": "Preliminary Education Specialist Credential, Moderate/Severe Disabilities"
   },
@@ -2580,7 +2580,7 @@
       "EDU 5345",
       "EDU 5346"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "45 units",
     "name": "Preliminary Education Specialist Credential, Mild/Moderate Disabilities"
   },
@@ -2600,7 +2600,7 @@
       "EDU 5180",
       "EDU 5302"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "42 units",
     "name": "Multiple Subject Credential"
   },
@@ -2621,7 +2621,7 @@
       "EDU 5280",
       "EDU 5302"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "36 units",
     "name": "Intern Credential Program"
   },
@@ -2663,7 +2663,7 @@
       "KIN 4360",
       "KIN 4370"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "20 units",
     "name": "Adapted Physical Education Added Authorization"
   },
@@ -2966,7 +2966,7 @@
       "SOC 3328",
       "STA 1200"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "24 units",
     "name": "Sociology Minor"
   },
@@ -3024,7 +3024,7 @@
       "RS 4990",
       "RS 4990L"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "18 units",
     "name": "Regenerative Studies Minor"
   },
@@ -3245,7 +3245,7 @@
       "PHY 2530",
       "PHY 2540"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "39 units",
     "name": "Physics Minor"
   },
@@ -3348,7 +3348,7 @@
   "Native American Studies Minor": {
     "requirements": "Minor Required: 12 units,Minor Electives: 9 units",
     "required": ["EWS 1400", "EWS 2030", "EWS 3900", "EWS 4030"],
-    "electives": [""],
+    "electives": [],
     "units": "21 units",
     "name": "Native American Studies Minor"
   },
@@ -3471,7 +3471,7 @@
   "Mathematics Minor": {
     "requirements": "Minor Required: 15-16 units,Minor Electives: 12-13 units",
     "required": ["MAT 1140", "MAT 1150", "MAT 2140", "MAT 2240", "MAT 2250"],
-    "electives": [""],
+    "electives": [],
     "units": "28 units ",
     "name": "Mathematics Minor"
   },
@@ -3560,7 +3560,7 @@
       "MHR 4030",
       "MHR 4460"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "18 units",
     "name": "Management of Not-for-Profit Organization Minor"
   },
@@ -3603,7 +3603,7 @@
   "International Agricultural Business Management Minor": {
     "requirements": "Minor Required: 12 units,Minor Electives: 6 units",
     "required": ["AG 1010", "AG 2010", "ABM 3300", "ABM 4500"],
-    "electives": [""],
+    "electives": [],
     "units": "18 units",
     "name": "International Agricultural Business Management Minor"
   },
@@ -3698,14 +3698,14 @@
   "History Minor": {
     "requirements": "Minor Required: 9 units,Minor Electives: 15 units",
     "required": ["HST 1101", "HST 1102", "HST 2201"],
-    "electives": [""],
+    "electives": [],
     "units": "24 units",
     "name": "History Minor"
   },
   "Geology Minor": {
     "requirements": "Minor Required: 8 units,Minor Electives: 12 units",
     "required": ["GSC 1110", "GSC 1120", "GSC 1410L", "GSC 1510L"],
-    "electives": [""],
+    "electives": [],
     "units": "20 units",
     "name": "Geology Minor"
   },
@@ -3759,7 +3759,7 @@
   "Gender and Sexuality Studies Minor": {
     "requirements": "Minor Required: 12 units,Minor Electives: 9 units",
     "required": ["EWS 1450", "EWS 3800", "EWS 3900", "EWS 4400"],
-    "electives": [""],
+    "electives": [],
     "units": "21 units",
     "name": "Gender and Sexuality Studies Minor"
   },
@@ -3774,7 +3774,7 @@
       "FRE 3410",
       "FRE 3420"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "21 units",
     "name": "French Minor"
   },
@@ -3796,7 +3796,7 @@
       "MAT 1200",
       "PHY 1210"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "32 units",
     "name": "Food Science and Technology Minor"
   },
@@ -3853,7 +3853,7 @@
       "MAT 1250",
       "STA 1200"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "36 units",
     "name": "Finance Minor"
   },
@@ -3976,7 +3976,7 @@
       "ENG 2710",
       "ENG 2720"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "18 units",
     "name": "English Minor"
   },
@@ -4163,7 +4163,7 @@
       "CIS 3252",
       "STA 1200"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "21 units",
     "name": "Computer Information Systems Minor"
   },
@@ -4198,7 +4198,7 @@
   "Chicana/o and Latina/o Studies Minor": {
     "requirements": "Minor Required: 12 units,Minor Elective: 9 units",
     "required": ["EWS 1400", "EWS 2020", "EWS 3900", "EWS 4020"],
-    "electives": [""],
+    "electives": [],
     "units": "21 units",
     "name": "Chicana/o and Latina/o Studies Minor"
   },
@@ -4373,14 +4373,14 @@
       "PHY 2530",
       "PHY 2540"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "41 units",
     "name": "Astronomy Minor"
   },
   "Asian/Pacific Islander American Studies Minor": {
     "requirements": "Minor Required: 12 units,Minor Electives: 9 units",
     "required": ["EWS 1400", "EWS 2040", "EWS 3900", "EWS 4040"],
-    "electives": [""],
+    "electives": [],
     "units": "21 units",
     "name": "Asian/Pacific Islander American Studies Minor"
   },
@@ -4408,7 +4408,7 @@
   "Anthropology Minor": {
     "requirements": "Minor Required: 12 units,Minor Electives: 12 units",
     "required": ["ANT 1010", "ANT 1020", "ANT 1030", "ANT 1040"],
-    "electives": [""],
+    "electives": [],
     "units": "24 units",
     "name": "Anthropology Minor"
   },
@@ -4429,7 +4429,7 @@
       "BIO 1210L",
       "MAT 1050"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "33 units",
     "name": "Animal and Veterinary Science Minor"
   },
@@ -4489,7 +4489,7 @@
   "African American Studies Minor": {
     "requirements": "Minor Required: 12 units,Minor Electives: 9 units",
     "required": ["EWS 1400", "EWS 2010", "EWS 3900", "EWS 4010"],
-    "electives": [""],
+    "electives": [],
     "units": "21 units",
     "name": "African American Studies Minor"
   },
@@ -5616,7 +5616,7 @@
       "PLT 4410",
       "PLT 4610"
     ],
-    "electives": [""],
+    "electives": [],
     "units": "120 units",
     "name": "Plant Science, B.S."
   },
