@@ -1,37 +1,23 @@
-# Course Curriculum Management
+# Course Parsing and Data Management for BroncoDirectMe
 
 ## Overview
 
-This Python script manages information about different courses and major requirements. It reads from CSV files to populate `CourseInfo` and `MajorInfo` objects and exports the CourseInfo objects to a JSON file.
+This repository contains scripts for parsing course and major information from CSV files into JSON format, intended for use with the BroncoDirectMe web extension. The data, extracted from official sources, undergoes transformation to support easy integration and manipulation within the extension's framework.
 
-## Features
+## Structure
 
-Reads major courses from a CSV file (`2023-2024_Programs.csv`) and populates CourseInfo objects.
-Exports the course information to a JSON file (`courses_2023-2024.json`).
-
-## Files
-
-`2023-2024_Programs.csv`: Contains information about major courses, including major name, required courses, and electives.
-`courses_2023-2024.json`: The exported JSON file that contains all the course information.
-
-## Python Classes
-
-`MajorInfo`: Stores information related to a major such as required and elective courses.
-`CourseInfo`: Stores detailed information about individual courses.
-
-## Dependencies
-
-Python 3.x
-CSV module
-JSON module
+- `/CourseCurriculum`: Contains raw CSV files with scraped data regarding courses and majors.
+- `/parsed`: Destination for JSON files generated from CSV data, housing processed information on courses and majors.
+- `main.py`: Python script for converting CSV data from `/CourseCurriculum` into structured JSON files located in `/parsed`.
+- `/deep-conversions`: Contains (past and) initial attempts at transforming course requirements (corequisites and prerequisites) into a more detailed data format. This is still under development and not currently operational.
 
 ## Usage
 
-1. Make sure you have Python installed.
-2. Run the script.
+1. Ensure Python is installed on your system.
+2. Execute `main.py` to generate JSON files within the `/parsed` directory:
 
-```
-python your_script_name.py
+```bash
+python main.py
 ```
 
-This will generate a JSON file courses_2023-2024.json in the ./CourseCurriculum directory.
+This process populates the `/parsed` folder with JSON files, ready for integration with the BroncoDirectMe extension, facilitating course and major requirement management.
